@@ -1,0 +1,2372 @@
+[
+  {
+    "uid": "44f5d426-dcc4-40d0-832e-afacc74b29ef",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment1/binary.c",
+    "filename": "binary.c",
+    "path": "sem1/cpro/assignment1/binary.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment1/binary.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "5b6c275a-7d23-4678-96a0-053fdf415a1e",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment1/fib.c",
+    "filename": "fib.c",
+    "path": "sem1/cpro/assignment1/fib.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment1/fib.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "816b0acf-7392-4657-ab66-caaed472857a",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment1/pairs.c",
+    "filename": "pairs.c",
+    "path": "sem1/cpro/assignment1/pairs.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment1/pairs.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "76546ab8-f730-4e0e-b401-3916cf959d2a",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment1/primes.c",
+    "filename": "primes.c",
+    "path": "sem1/cpro/assignment1/primes.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment1/primes.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "f1eddf1c-919b-4f25-aeff-1f7f0e2c9308",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment1/rectangle.c",
+    "filename": "rectangle.c",
+    "path": "sem1/cpro/assignment1/rectangle.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment1/rectangle.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "c24065a0-07c5-40a8-98cb-52b19dffc813",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment2/doors.c",
+    "filename": "doors.c",
+    "path": "sem1/cpro/assignment2/doors.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment2/doors.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "727fbb87-9f2f-4ba8-9876-5579b52167cb",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment2/investing.c",
+    "filename": "investing.c",
+    "path": "sem1/cpro/assignment2/investing.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment2/investing.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "f57c842f-7948-4dad-9324-e82371c99069",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment2/palindrome.c",
+    "filename": "palindrome.c",
+    "path": "sem1/cpro/assignment2/palindrome.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment2/palindrome.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "a262e89c-40b7-41b4-8b73-7cf794f2f9cb",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment2/pecrec.c",
+    "filename": "pecrec.c",
+    "path": "sem1/cpro/assignment2/pecrec.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment2/pecrec.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "a8b0577b-9da1-4892-9ce2-45800e2c1baa",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment2/rotation.c",
+    "filename": "rotation.c",
+    "path": "sem1/cpro/assignment2/rotation.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment2/rotation.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "9953dbeb-e247-4046-9ef4-52a230811fc2",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment3/q1.c",
+    "filename": "q1.c",
+    "path": "sem1/cpro/assignment3/q1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment3/q1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "69e8bef3-f705-4833-8b0b-e752dba5b799",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment3/q2.c",
+    "filename": "q2.c",
+    "path": "sem1/cpro/assignment3/q2.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment3/q2.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "e3efc95a-19e3-4430-aff8-57d1ce2b5749",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment3/q3.c",
+    "filename": "q3.c",
+    "path": "sem1/cpro/assignment3/q3.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment3/q3.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "a9057276-123f-46f9-a82c-3d829e9401fe",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment3/q4.c",
+    "filename": "q4.c",
+    "path": "sem1/cpro/assignment3/q4.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment3/q4.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "a4e4bd20-bb5b-4501-ab68-a666395d5187",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment3/q5.c",
+    "filename": "q5.c",
+    "path": "sem1/cpro/assignment3/q5.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment3/q5.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "2feca3b4-1838-4ae7-90f7-2db178c9c367",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment4/2023114011_cpro_a4/a.out",
+    "filename": "a.out",
+    "path": "sem1/cpro/assignment4/2023114011_cpro_a4/a.out",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment4/2023114011_cpro_a4/a.out",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "d928c08b-de46-4ca0-946a-9320146f784e",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment4/2023114011_cpro_a4/q1.c",
+    "filename": "q1.c",
+    "path": "sem1/cpro/assignment4/2023114011_cpro_a4/q1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment4/2023114011_cpro_a4/q1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "6e87ad05-216a-4311-b9d6-46c04c5742fa",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment4/2023114011_cpro_a4/q2.c",
+    "filename": "q2.c",
+    "path": "sem1/cpro/assignment4/2023114011_cpro_a4/q2.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment4/2023114011_cpro_a4/q2.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "1c848f00-7935-4b55-a8fe-3d9ca8120732",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment4/2023114011_cpro_a4/q3.c",
+    "filename": "q3.c",
+    "path": "sem1/cpro/assignment4/2023114011_cpro_a4/q3.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment4/2023114011_cpro_a4/q3.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "510e5da5-9cee-4a79-9481-57f972662554",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment4/Assignment-4-v2.pdf",
+    "filename": "Assignment-4-v2.pdf",
+    "path": "sem1/cpro/assignment4/Assignment-4-v2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment4/Assignment-4-v2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "0ab44cef-c2f1-48f8-b546-61a2c7f848fc",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment4/q4.c",
+    "filename": "q4.c",
+    "path": "sem1/cpro/assignment4/q4.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment4/q4.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "8632f79c-b65d-4cbc-bfa4-1d7feaebad4a",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment4/q5.c",
+    "filename": "q5.c",
+    "path": "sem1/cpro/assignment4/q5.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment4/q5.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "42da1410-2955-43df-9c27-76a34b04c1fe",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment5/2023114011_cpro_a5/main.c",
+    "filename": "main.c",
+    "path": "sem1/cpro/assignment5/2023114011_cpro_a5/main.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment5/2023114011_cpro_a5/main.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "63e3d6de-6642-4f19-8ef8-5c6a2a2e2351",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment5/2023114011_cpro_a5/matrix.c",
+    "filename": "matrix.c",
+    "path": "sem1/cpro/assignment5/2023114011_cpro_a5/matrix.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment5/2023114011_cpro_a5/matrix.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "9700f4da-3271-4b6b-99fe-6fc99f8fb635",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment5/2023114011_cpro_a5/matrix.h",
+    "filename": "matrix.h",
+    "path": "sem1/cpro/assignment5/2023114011_cpro_a5/matrix.h",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment5/2023114011_cpro_a5/matrix.h",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "993bf427-2e67-4156-9bdc-35c2eef1be9b",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment5/Assignment5 - V2.pdf",
+    "filename": "Assignment5 - V2.pdf",
+    "path": "sem1/cpro/assignment5/Assignment5 - V2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment5/Assignment5 - V2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "fd68df18-3600-4803-8ee7-5eba54bf74d6",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment5/q1.c",
+    "filename": "q1.c",
+    "path": "sem1/cpro/assignment5/q1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment5/q1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "44f5c047-09c1-407f-b855-187031e84e3d",
+    "id": "Fane1824/IIIT-Coursework/sem1/cpro/assignment5/q2.c",
+    "filename": "q2.c",
+    "path": "sem1/cpro/assignment5/q2.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/cpro/assignment5/q2.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "4998bac3-93b7-49bf-883f-c754d9720d1b",
+    "id": "Fane1824/IIIT-Coursework/sem1/ds/assignments/assignment1/2023114011_DS_A1.pdf",
+    "filename": "2023114011_DS_A1.pdf",
+    "path": "sem1/ds/assignments/assignment1/2023114011_DS_A1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/ds/assignments/assignment1/2023114011_DS_A1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "7ead8e26-b475-4d0d-be34-7fbcd031af35",
+    "id": "Fane1824/IIIT-Coursework/sem1/ds/assignments/assignment1/hw1.pdf",
+    "filename": "hw1.pdf",
+    "path": "sem1/ds/assignments/assignment1/hw1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/ds/assignments/assignment1/hw1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f450eb28-ce85-4d20-9930-2a742f483505",
+    "id": "Fane1824/IIIT-Coursework/sem1/ds/assignments/assignment2/2023114011_DS_A2.pdf",
+    "filename": "2023114011_DS_A2.pdf",
+    "path": "sem1/ds/assignments/assignment2/2023114011_DS_A2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/ds/assignments/assignment2/2023114011_DS_A2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "12338da7-6e61-4c6a-a7a7-1c1ff6f03aba",
+    "id": "Fane1824/IIIT-Coursework/sem1/ds/assignments/assignment2/assignment02.pdf",
+    "filename": "assignment02.pdf",
+    "path": "sem1/ds/assignments/assignment2/assignment02.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/ds/assignments/assignment2/assignment02.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "320e8849-303c-4b87-a420-e5e571d5ca68",
+    "id": "Fane1824/IIIT-Coursework/sem1/ds/exams/endsem.pdf",
+    "filename": "endsem.pdf",
+    "path": "sem1/ds/exams/endsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/ds/exams/endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "026ce065-1d66-41ee-9483-c913d77e5276",
+    "id": "Fane1824/IIIT-Coursework/sem1/ds/exams/midsem.pdf",
+    "filename": "midsem.pdf",
+    "path": "sem1/ds/exams/midsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/ds/exams/midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "9f4d5db3-78b1-4cd9-bf63-2a529ac1994e",
+    "id": "Fane1824/IIIT-Coursework/sem1/dsm/endsem.pdf",
+    "filename": "endsem.pdf",
+    "path": "sem1/dsm/endsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/dsm/endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "880681f3-43b2-42f9-b104-698403cdf116",
+    "id": "Fane1824/IIIT-Coursework/sem1/dsm/midsem.pdf",
+    "filename": "midsem.pdf",
+    "path": "sem1/dsm/midsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/dsm/midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3fc91966-9dd3-431f-b7e2-944a64046e97",
+    "id": "Fane1824/IIIT-Coursework/sem1/itl1/endsem.pdf",
+    "filename": "endsem.pdf",
+    "path": "sem1/itl1/endsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem1/itl1/endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "2c094746-271e-4ffd-9721-e1e0f230ef66",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment1/2023114011_Ishaan_RegexTokenizerAssignment.zip",
+    "filename": "2023114011_Ishaan_RegexTokenizerAssignment.zip",
+    "path": "sem2/cl1/assignments/assignment1/2023114011_Ishaan_RegexTokenizerAssignment.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment1/2023114011_Ishaan_RegexTokenizerAssignment.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "89adca58-f98b-4c32-818e-0298d5eb6852",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment1/CL-1_Assignment_1.pdf",
+    "filename": "CL-1_Assignment_1.pdf",
+    "path": "sem2/cl1/assignments/assignment1/CL-1_Assignment_1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment1/CL-1_Assignment_1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "957a9b6d-05e2-499f-a7e9-10c23b93cbfc",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment2/2023114011_Ishaan_MorphAnalysisAssignment.zip",
+    "filename": "2023114011_Ishaan_MorphAnalysisAssignment.zip",
+    "path": "sem2/cl1/assignments/assignment2/2023114011_Ishaan_MorphAnalysisAssignment.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment2/2023114011_Ishaan_MorphAnalysisAssignment.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "418e7992-dc4a-475d-bd24-153b8e6b44db",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment2/CL_Assignment_2.pdf",
+    "filename": "CL_Assignment_2.pdf",
+    "path": "sem2/cl1/assignments/assignment2/CL_Assignment_2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment2/CL_Assignment_2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "db3b7e2e-de02-48ec-aa3a-11b2d1b431ae",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment3p1/2023114011_Ishaan_Annotations.zip",
+    "filename": "2023114011_Ishaan_Annotations.zip",
+    "path": "sem2/cl1/assignments/assignment3p1/2023114011_Ishaan_Annotations.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment3p1/2023114011_Ishaan_Annotations.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "de37355c-1365-4c1d-8fe9-96615afb9217",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment3p1/CL1_Assignment_3.pdf",
+    "filename": "CL1_Assignment_3.pdf",
+    "path": "sem2/cl1/assignments/assignment3p1/CL1_Assignment_3.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment3p1/CL1_Assignment_3.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "a4248ae2-2358-45fa-b13a-64895c66de5d",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment3p2/2023114011_Ishaan_POS_Models.zip",
+    "filename": "2023114011_Ishaan_POS_Models.zip",
+    "path": "sem2/cl1/assignments/assignment3p2/2023114011_Ishaan_POS_Models.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment3p2/2023114011_Ishaan_POS_Models.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "32de5f1e-b977-41e4-b74b-d62e03899ff5",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment3p2/Assignment_3_part2.pdf",
+    "filename": "Assignment_3_part2.pdf",
+    "path": "sem2/cl1/assignments/assignment3p2/Assignment_3_part2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment3p2/Assignment_3_part2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "38d7ecbf-14bc-42e7-9c74-a35ee0ef9268",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment4/2023114011_Assignment4.pdf",
+    "filename": "2023114011_Assignment4.pdf",
+    "path": "sem2/cl1/assignments/assignment4/2023114011_Assignment4.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment4/2023114011_Assignment4.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f5210078-5dc2-4ccf-9d1e-6db02c810fac",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/assignments/assignment4/X-bar assignment.pdf",
+    "filename": "X-bar assignment.pdf",
+    "path": "sem2/cl1/assignments/assignment4/X-bar assignment.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/assignments/assignment4/X-bar assignment.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "c06b72f0-2c7e-46fe-8e23-4b2bbd1d1514",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/exams/endsem.pdf",
+    "filename": "endsem.pdf",
+    "path": "sem2/cl1/exams/endsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/exams/endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "31cf9936-cb6f-463a-b008-6860b4af3cdf",
+    "id": "Fane1824/IIIT-Coursework/sem2/cl1/exams/midsem.pdf",
+    "filename": "midsem.pdf",
+    "path": "sem2/cl1/exams/midsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cl1/exams/midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "37bf7d35-2be8-4083-839b-fab97370cca5",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/CSO1A2024.pdf",
+    "filename": "CSO1A2024.pdf",
+    "path": "sem2/cso/assignments/2023114011_assign1/CSO1A2024.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/CSO1A2024.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "450b6d6f-8fd4-48f7-af0b-bc12d95896c2",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q1/q1.c",
+    "filename": "q1.c",
+    "path": "sem2/cso/assignments/2023114011_assign1/q1/q1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q1/q1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f7eeabe3-642d-4635-a933-9501b655bcb5",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q1/q1.s",
+    "filename": "q1.s",
+    "path": "sem2/cso/assignments/2023114011_assign1/q1/q1.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q1/q1.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "c0e35a2c-c583-4bbb-803b-a954a0d7fbcf",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q2/q2.c",
+    "filename": "q2.c",
+    "path": "sem2/cso/assignments/2023114011_assign1/q2/q2.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q2/q2.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e56a76ca-9e0e-4379-844a-69cc055dbcf1",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q2/q2.s",
+    "filename": "q2.s",
+    "path": "sem2/cso/assignments/2023114011_assign1/q2/q2.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q2/q2.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "bd153750-1eba-40bb-bc21-7c6f27778ed4",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q3/q3.c",
+    "filename": "q3.c",
+    "path": "sem2/cso/assignments/2023114011_assign1/q3/q3.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q3/q3.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "759817fb-6069-4408-bd82-83d706288bbe",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q3/q3.s",
+    "filename": "q3.s",
+    "path": "sem2/cso/assignments/2023114011_assign1/q3/q3.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q3/q3.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "c6f4930f-823e-4362-98b5-933f4d67ce68",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q4/q4.c",
+    "filename": "q4.c",
+    "path": "sem2/cso/assignments/2023114011_assign1/q4/q4.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q4/q4.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "492b1062-69ec-4ba8-9df2-8567c48ce1b0",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q4/q4.s",
+    "filename": "q4.s",
+    "path": "sem2/cso/assignments/2023114011_assign1/q4/q4.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q4/q4.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "43b62ab9-e8bd-47c6-a1de-ea1926add750",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q5/q5.c",
+    "filename": "q5.c",
+    "path": "sem2/cso/assignments/2023114011_assign1/q5/q5.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q5/q5.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e56d903b-3ded-4ab5-a1a4-e202c4754aa3",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign1/q5/q5.s",
+    "filename": "q5.s",
+    "path": "sem2/cso/assignments/2023114011_assign1/q5/q5.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign1/q5/q5.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "1a8e1da9-4cbc-4805-af1b-a9616dbedcf8",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/2023114011_assign2.zip",
+    "filename": "2023114011_assign2.zip",
+    "path": "sem2/cso/assignments/2023114011_assign2/2023114011_assign2.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/2023114011_assign2.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f68de02f-6576-45e0-b343-de4d98a3b635",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/CSO2A2024.pdf",
+    "filename": "CSO2A2024.pdf",
+    "path": "sem2/cso/assignments/2023114011_assign2/CSO2A2024.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/CSO2A2024.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "ca1d67d7-23b8-4966-ba7b-f192ec0851d1",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q1/a.out",
+    "filename": "a.out",
+    "path": "sem2/cso/assignments/2023114011_assign2/q1/a.out",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q1/a.out",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "22deac92-8a33-4e6a-abd6-85d2870f788b",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q1/q1.c",
+    "filename": "q1.c",
+    "path": "sem2/cso/assignments/2023114011_assign2/q1/q1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q1/q1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "daca6158-5e0b-4ee4-b2a2-bf5af64753ba",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q1/q1.s",
+    "filename": "q1.s",
+    "path": "sem2/cso/assignments/2023114011_assign2/q1/q1.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q1/q1.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "027a4a24-d398-4ba4-9603-5df1e5366266",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q2/a.out",
+    "filename": "a.out",
+    "path": "sem2/cso/assignments/2023114011_assign2/q2/a.out",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q2/a.out",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "c9a07b18-760e-4521-a6c9-c8ff55610bad",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q2/q2.c",
+    "filename": "q2.c",
+    "path": "sem2/cso/assignments/2023114011_assign2/q2/q2.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q2/q2.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6a18b306-7872-4020-a59f-c2a60fcd9baa",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q2/q2.s",
+    "filename": "q2.s",
+    "path": "sem2/cso/assignments/2023114011_assign2/q2/q2.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q2/q2.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "65452233-54e2-4085-a3bf-63463baec0b1",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q3/a.out",
+    "filename": "a.out",
+    "path": "sem2/cso/assignments/2023114011_assign2/q3/a.out",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q3/a.out",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "accb6d84-4d7f-4d07-8111-1eefb76f4205",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q3/q3.c",
+    "filename": "q3.c",
+    "path": "sem2/cso/assignments/2023114011_assign2/q3/q3.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q3/q3.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "ba82a955-54b5-45c4-b0b8-928480b54739",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q3/q3.s",
+    "filename": "q3.s",
+    "path": "sem2/cso/assignments/2023114011_assign2/q3/q3.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q3/q3.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "fe0a9dc5-7ea3-4142-8fa8-067fb1c7eeb7",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q4/q4.c",
+    "filename": "q4.c",
+    "path": "sem2/cso/assignments/2023114011_assign2/q4/q4.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q4/q4.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "8a84b48b-40db-4262-8d88-b8e2d06feaa4",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q4/q4.s",
+    "filename": "q4.s",
+    "path": "sem2/cso/assignments/2023114011_assign2/q4/q4.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q4/q4.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b90c7e41-e82c-4fcd-8a9f-79114a8e86e6",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q5/a.out",
+    "filename": "a.out",
+    "path": "sem2/cso/assignments/2023114011_assign2/q5/a.out",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q5/a.out",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "edba0536-caf8-4e9b-a6ea-362de20f1ecf",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q5/q5.c",
+    "filename": "q5.c",
+    "path": "sem2/cso/assignments/2023114011_assign2/q5/q5.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q5/q5.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "5c6ae9db-dff8-41b0-94d7-227299d843c6",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/assignments/2023114011_assign2/q5/q5.s",
+    "filename": "q5.s",
+    "path": "sem2/cso/assignments/2023114011_assign2/q5/q5.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/assignments/2023114011_assign2/q5/q5.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b5ddbecc-5b31-4e4b-857c-099255dce33e",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/cso_memory_based_exam_questions.pdf",
+    "filename": "cso_memory_based_exam_questions.pdf",
+    "path": "sem2/cso/cso_memory_based_exam_questions.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/cso_memory_based_exam_questions.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b35de0a2-c007-47ea-99fd-44630f922ee6",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/CSO_Lab_exam_spring_2024.pdf",
+    "filename": "CSO_Lab_exam_spring_2024.pdf",
+    "path": "sem2/cso/labexam/CSO_Lab_exam_spring_2024.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/CSO_Lab_exam_spring_2024.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "65e01e3a-55b9-49e6-8a4e-48376d89c289",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q1/q1.c",
+    "filename": "q1.c",
+    "path": "sem2/cso/labexam/q1/q1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q1/q1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "9851321c-02a8-4297-bcce-ab211e496d83",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q1/q1.s",
+    "filename": "q1.s",
+    "path": "sem2/cso/labexam/q1/q1.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q1/q1.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "87a9c2c9-1797-4363-b08e-5ac82e0eb319",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q10/q10.c",
+    "filename": "q10.c",
+    "path": "sem2/cso/labexam/q10/q10.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q10/q10.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "716ccd33-5e4b-4121-a22b-ac025d3210bc",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q10/q10.s",
+    "filename": "q10.s",
+    "path": "sem2/cso/labexam/q10/q10.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q10/q10.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "895aa8f3-ce33-4b66-95e7-5e29caceb6b8",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q11/q11.c",
+    "filename": "q11.c",
+    "path": "sem2/cso/labexam/q11/q11.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q11/q11.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f65c5e81-192d-4338-86d8-07d92c641920",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q11/q11.s",
+    "filename": "q11.s",
+    "path": "sem2/cso/labexam/q11/q11.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q11/q11.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "bbb094d7-e675-4024-9202-1745d1d73510",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q12/q12.c",
+    "filename": "q12.c",
+    "path": "sem2/cso/labexam/q12/q12.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q12/q12.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e92ed5d1-9720-4bb5-b46a-17c1e97c285e",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q12/q12.s",
+    "filename": "q12.s",
+    "path": "sem2/cso/labexam/q12/q12.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q12/q12.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b8d7533c-cf35-44b3-b43f-0378a0af51fa",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q2/q1.c",
+    "filename": "q1.c",
+    "path": "sem2/cso/labexam/q2/q1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q2/q1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e8d08d59-c602-4116-bc5c-888e44567c9c",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q2/q1.s",
+    "filename": "q1.s",
+    "path": "sem2/cso/labexam/q2/q1.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q2/q1.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b8e2d316-7ed0-4d47-8111-7d441969a8f5",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q3/q3.c",
+    "filename": "q3.c",
+    "path": "sem2/cso/labexam/q3/q3.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q3/q3.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6f79d905-9868-4f31-8c12-0bc91f980fa0",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q3/q3.s",
+    "filename": "q3.s",
+    "path": "sem2/cso/labexam/q3/q3.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q3/q3.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f20f6efd-1581-41db-b5d2-5ab436395155",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q4/q4.c",
+    "filename": "q4.c",
+    "path": "sem2/cso/labexam/q4/q4.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q4/q4.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "647930a1-6467-41f4-b7a2-cc66a5fbac0a",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q4/q4.s",
+    "filename": "q4.s",
+    "path": "sem2/cso/labexam/q4/q4.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q4/q4.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "46d1ff44-849d-40dd-9926-f868a137ec19",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q4/q42.c",
+    "filename": "q42.c",
+    "path": "sem2/cso/labexam/q4/q42.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q4/q42.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "7cebb674-c3f8-4838-a3ae-d5df70c3c1ac",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q4/q42.s",
+    "filename": "q42.s",
+    "path": "sem2/cso/labexam/q4/q42.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q4/q42.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "fcf4fc0b-c1e1-4b0e-8a8c-8a68ec49b3ed",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q5/q5.c",
+    "filename": "q5.c",
+    "path": "sem2/cso/labexam/q5/q5.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q5/q5.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "7dffc2f8-24f4-480e-be3a-ac40c13dcff5",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q5/q5.s",
+    "filename": "q5.s",
+    "path": "sem2/cso/labexam/q5/q5.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q5/q5.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "05096462-e5d2-4360-a40c-b50939a9c269",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q6/q6.c",
+    "filename": "q6.c",
+    "path": "sem2/cso/labexam/q6/q6.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q6/q6.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3c4269ce-cbe9-443a-aed2-2ab353c43d17",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q6/q6.s",
+    "filename": "q6.s",
+    "path": "sem2/cso/labexam/q6/q6.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q6/q6.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "bd0e7921-64b3-40df-af71-15a79b660e30",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q7/q7.c",
+    "filename": "q7.c",
+    "path": "sem2/cso/labexam/q7/q7.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q7/q7.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "aacdb0da-949f-4db4-90ae-b82abc0b0b0b",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q7/q7.s",
+    "filename": "q7.s",
+    "path": "sem2/cso/labexam/q7/q7.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q7/q7.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "45ab735b-a0f1-4271-8525-38854a657cd1",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q8/q8.c",
+    "filename": "q8.c",
+    "path": "sem2/cso/labexam/q8/q8.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q8/q8.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "56a671e5-bcfb-4e0f-b128-42cc3a4d4a30",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q8/q8.s",
+    "filename": "q8.s",
+    "path": "sem2/cso/labexam/q8/q8.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q8/q8.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "82e32df0-3b12-49c3-9d7e-78abae7939b4",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q9/q9.c",
+    "filename": "q9.c",
+    "path": "sem2/cso/labexam/q9/q9.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q9/q9.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "a45224be-559d-4896-9700-8a5c6380d7c5",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/labexam/q9/q9.s",
+    "filename": "q9.s",
+    "path": "sem2/cso/labexam/q9/q9.s",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/labexam/q9/q9.s",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "aea5ce4d-743c-4e3b-991c-17c0e9b5619a",
+    "id": "Fane1824/IIIT-Coursework/sem2/cso/tb.pdf",
+    "filename": "tb.pdf",
+    "path": "sem2/cso/tb.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/cso/tb.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e0bb1dff-559b-4beb-93bd-f2c22c38dd25",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment1/DSA_Assignment_1.pdf",
+    "filename": "DSA_Assignment_1.pdf",
+    "path": "sem2/dsa/assignment1/DSA_Assignment_1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment1/DSA_Assignment_1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "9d5306d3-8bf8-494f-8615-d8e128fa5c44",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment1/DSA_assignment1.zip",
+    "filename": "DSA_assignment1.zip",
+    "path": "sem2/dsa/assignment1/DSA_assignment1.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment1/DSA_assignment1.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "a64a0635-96a1-40b5-8314-7adba480f052",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment2/DSA_Assignment_2_V3.pdf",
+    "filename": "DSA_Assignment_2_V3.pdf",
+    "path": "sem2/dsa/assignment2/DSA_Assignment_2_V3.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment2/DSA_Assignment_2_V3.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f0e1c189-7d5c-4549-acfc-2d6d525cb251",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment2/q1.c",
+    "filename": "q1.c",
+    "path": "sem2/dsa/assignment2/q1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment2/q1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "82c7a3b0-4a3d-4875-b528-1951544d9248",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment3/DSA_Assignment_3.pdf",
+    "filename": "DSA_Assignment_3.pdf",
+    "path": "sem2/dsa/assignment3/DSA_Assignment_3.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment3/DSA_Assignment_3.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "062c211a-9e38-42ad-97ec-1e9947d0efb6",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment3/q.c",
+    "filename": "q.c",
+    "path": "sem2/dsa/assignment3/q.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment3/q.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "8ad6a7c1-2ddd-4bee-839e-53297e00a6ec",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment4/DSA_Assignment_4.pdf",
+    "filename": "DSA_Assignment_4.pdf",
+    "path": "sem2/dsa/assignment4/DSA_Assignment_4.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment4/DSA_Assignment_4.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "259c9ad9-9ce7-4865-afc8-116457947f55",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment4/p1.c",
+    "filename": "p1.c",
+    "path": "sem2/dsa/assignment4/p1.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment4/p1.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "93152546-10fb-47ca-8efb-a10faa317292",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment4/p2.c",
+    "filename": "p2.c",
+    "path": "sem2/dsa/assignment4/p2.c",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment4/p2.c",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3edc1bd7-d510-4c6e-8442-362e6d4c67da",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment5/Assignment_5.pdf",
+    "filename": "Assignment_5.pdf",
+    "path": "sem2/dsa/assignment5/Assignment_5.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment5/Assignment_5.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "793a3945-dfaf-4eae-846f-b30e0da467cc",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment5/q1.cpp",
+    "filename": "q1.cpp",
+    "path": "sem2/dsa/assignment5/q1.cpp",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment5/q1.cpp",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "a870010c-0198-45b9-8f19-01c367c0b3cf",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/assignment5/q2.cpp",
+    "filename": "q2.cpp",
+    "path": "sem2/dsa/assignment5/q2.cpp",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/assignment5/q2.cpp",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "5ef48095-bd5f-4d00-b1b3-8fea9c913302",
+    "id": "Fane1824/IIIT-Coursework/sem2/dsa/tb.pdf",
+    "filename": "tb.pdf",
+    "path": "sem2/dsa/tb.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/dsa/tb.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f1c697c0-ab2b-46a3-a29f-8843aeb74d83",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/assignment2.zip",
+    "filename": "assignment2.zip",
+    "path": "sem2/iss/assignment2.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/assignment2.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "080f7353-9d32-4cd5-8fd1-29fb47e2b336",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab1/2023114011.zip",
+    "filename": "2023114011.zip",
+    "path": "sem2/iss/labs/lab1/2023114011.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab1/2023114011.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "47548cd3-ba34-4d40-9c03-f88784b7008a",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab1/Lab Assignment.pdf",
+    "filename": "Lab Assignment.pdf",
+    "path": "sem2/iss/labs/lab1/Lab Assignment.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab1/Lab Assignment.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f35104cc-f24e-49f0-aa8b-8ea261f0d662",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab1/Lab Slides.pdf",
+    "filename": "Lab Slides.pdf",
+    "path": "sem2/iss/labs/lab1/Lab Slides.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab1/Lab Slides.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "0224234e-db2f-4298-96c7-46ca8946c9bc",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab2/Intro to JavaScript Slides.pdf",
+    "filename": "Intro to JavaScript Slides.pdf",
+    "path": "sem2/iss/labs/lab2/Intro to JavaScript Slides.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab2/Intro to JavaScript Slides.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "59597b04-6516-4f9b-86d5-76b17e603d19",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab2/Lab Assignment 2.pdf",
+    "filename": "Lab Assignment 2.pdf",
+    "path": "sem2/iss/labs/lab2/Lab Assignment 2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab2/Lab Assignment 2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "0a6cf7e4-f9df-49b3-ab80-e73717d563cc",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab2/iss-lab-2-Fane1824-main.zip",
+    "filename": "iss-lab-2-Fane1824-main.zip",
+    "path": "sem2/iss/labs/lab2/iss-lab-2-Fane1824-main.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab2/iss-lab-2-Fane1824-main.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e5581584-b7bd-40b9-bf7e-5e0950bb2efb",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab3/Flask Demo Code.zip",
+    "filename": "Flask Demo Code.zip",
+    "path": "sem2/iss/labs/lab3/Flask Demo Code.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab3/Flask Demo Code.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "1045d9af-4608-46de-886b-89f6c3d4b6b8",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab3/Intro to Flask Slides.pdf",
+    "filename": "Intro to Flask Slides.pdf",
+    "path": "sem2/iss/labs/lab3/Intro to Flask Slides.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab3/Intro to Flask Slides.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "7b1f4ced-8129-4752-bf6f-8f428ffcb1d0",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab3/Lab Assignment 3.pdf",
+    "filename": "Lab Assignment 3.pdf",
+    "path": "sem2/iss/labs/lab3/Lab Assignment 3.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab3/Lab Assignment 3.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f8117aeb-04c1-4182-809e-fbec746add02",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab3/iss-lab-3-Fane1824-main.zip",
+    "filename": "iss-lab-3-Fane1824-main.zip",
+    "path": "sem2/iss/labs/lab3/iss-lab-3-Fane1824-main.zip",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab3/iss-lab-3-Fane1824-main.zip",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "c8465195-67a7-4d06-b699-94c977c6bd99",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab4/2023114011.pdf",
+    "filename": "2023114011.pdf",
+    "path": "sem2/iss/labs/lab4/2023114011.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab4/2023114011.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b1c8e43a-96ef-4538-b7e7-4616afc37308",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab4/Intro to SQL Slides.pdf",
+    "filename": "Intro to SQL Slides.pdf",
+    "path": "sem2/iss/labs/lab4/Intro to SQL Slides.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab4/Intro to SQL Slides.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "49e0c87d-cab1-4d4b-8ef2-d5ff4a7538b9",
+    "id": "Fane1824/IIIT-Coursework/sem2/iss/labs/lab4/Lab 4 Assignment.pdf",
+    "filename": "Lab 4 Assignment.pdf",
+    "path": "sem2/iss/labs/lab4/Lab 4 Assignment.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/iss/labs/lab4/Lab 4 Assignment.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "9b89930f-4efa-4499-b359-300f236d03f7",
+    "id": "Fane1824/IIIT-Coursework/sem2/itl2/endsem.pdf",
+    "filename": "endsem.pdf",
+    "path": "sem2/itl2/endsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/itl2/endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "8df8baa7-a4ca-4c40-83bc-7b75fa57dcf0",
+    "id": "Fane1824/IIIT-Coursework/sem2/itl2/midsem.pdf",
+    "filename": "midsem.pdf",
+    "path": "sem2/itl2/midsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/itl2/midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "45e4542a-4b2c-492a-9461-06b3941d474f",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment1/2023114011_a1.pdf",
+    "filename": "2023114011_a1.pdf",
+    "path": "sem2/la/assignments/half1/assignment1/2023114011_a1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment1/2023114011_a1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "87ff2213-7019-4ec7-9533-3549a31f4067",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment1/Assignment-1.pdf",
+    "filename": "Assignment-1.pdf",
+    "path": "sem2/la/assignments/half1/assignment1/Assignment-1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment1/Assignment-1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "c1774500-36b6-4250-90e8-290313f1e6f1",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment2/2023114011_a2.pdf",
+    "filename": "2023114011_a2.pdf",
+    "path": "sem2/la/assignments/half1/assignment2/2023114011_a2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment2/2023114011_a2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "d59f1e19-0512-4cdf-bf2a-878a92638869",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment2/Assignment-2.pdf",
+    "filename": "Assignment-2.pdf",
+    "path": "sem2/la/assignments/half1/assignment2/Assignment-2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment2/Assignment-2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6859c3f3-3195-4693-99bd-3ecb892a5e5e",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment3/2023114011_a3.pdf",
+    "filename": "2023114011_a3.pdf",
+    "path": "sem2/la/assignments/half1/assignment3/2023114011_a3.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment3/2023114011_a3.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "50e3df8d-529d-4bec-91ef-4124ea3255a2",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment3/Assignment-3.pdf",
+    "filename": "Assignment-3.pdf",
+    "path": "sem2/la/assignments/half1/assignment3/Assignment-3.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment3/Assignment-3.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "5f4f5ba5-c4a8-4793-9db6-a0ed5f53f5bc",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment4/2023114011_a4.pdf",
+    "filename": "2023114011_a4.pdf",
+    "path": "sem2/la/assignments/half1/assignment4/2023114011_a4.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment4/2023114011_a4.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "ccb0d6c7-1eed-4c3e-88c7-30dc07769823",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment4/Assignment-4.pdf",
+    "filename": "Assignment-4.pdf",
+    "path": "sem2/la/assignments/half1/assignment4/Assignment-4.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment4/Assignment-4.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "2a3af58f-5689-4312-a3bf-560eb9dc61ff",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment5/2023114011_a5.pdf",
+    "filename": "2023114011_a5.pdf",
+    "path": "sem2/la/assignments/half1/assignment5/2023114011_a5.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment5/2023114011_a5.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "0fa94b59-b02e-4217-be6c-e21f5ae5dcdf",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment5/Assignment_5.pdf",
+    "filename": "Assignment_5.pdf",
+    "path": "sem2/la/assignments/half1/assignment5/Assignment_5.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment5/Assignment_5.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "21f445e0-e6ae-4c2b-9f98-f0464deda255",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment6/2023114011_a6.pdf",
+    "filename": "2023114011_a6.pdf",
+    "path": "sem2/la/assignments/half1/assignment6/2023114011_a6.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment6/2023114011_a6.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "864c8707-4b4b-4a4f-818a-4351ba14c300",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment6/Assignment_6.pdf",
+    "filename": "Assignment_6.pdf",
+    "path": "sem2/la/assignments/half1/assignment6/Assignment_6.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment6/Assignment_6.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b38b8069-1b25-44de-9fc8-10757a049af0",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment7/2023114011_a7.pdf",
+    "filename": "2023114011_a7.pdf",
+    "path": "sem2/la/assignments/half1/assignment7/2023114011_a7.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment7/2023114011_a7.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "2dfcfa9c-752c-4d4d-91d2-cba6bdc1df44",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half1/assignment7/Assignment-7.pdf",
+    "filename": "Assignment-7.pdf",
+    "path": "sem2/la/assignments/half1/assignment7/Assignment-7.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half1/assignment7/Assignment-7.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "ea5a6bd9-bbe6-4d5b-8b12-bdff14d8313b",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half2/assignment1/2023114011_a1.pdf",
+    "filename": "2023114011_a1.pdf",
+    "path": "sem2/la/assignments/half2/assignment1/2023114011_a1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half2/assignment1/2023114011_a1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "1b627834-5ca2-48e0-bb7d-664e48fcf80d",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half2/assignment1/Assignment 1.pdf",
+    "filename": "Assignment 1.pdf",
+    "path": "sem2/la/assignments/half2/assignment1/Assignment 1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half2/assignment1/Assignment 1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "80b6027d-4f50-4661-a636-5bb007d1ad3a",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half2/assignment2/2023114011_a2.pdf",
+    "filename": "2023114011_a2.pdf",
+    "path": "sem2/la/assignments/half2/assignment2/2023114011_a2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half2/assignment2/2023114011_a2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "485432f4-0e92-4637-9964-28ea793ab740",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/assignments/half2/assignment2/Asignment 2.pdf",
+    "filename": "Asignment 2.pdf",
+    "path": "sem2/la/assignments/half2/assignment2/Asignment 2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/assignments/half2/assignment2/Asignment 2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6a429ec6-dbe9-4392-850d-0bd2f50481aa",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/exams/midsem/Midsem_Key.pdf",
+    "filename": "Midsem_Key.pdf",
+    "path": "sem2/la/exams/midsem/Midsem_Key.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/exams/midsem/Midsem_Key.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "d8681502-e964-4928-ac64-62f899cb07a7",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/exams/midsem/midsem.pdf",
+    "filename": "midsem.pdf",
+    "path": "sem2/la/exams/midsem/midsem.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/exams/midsem/midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f84c6a94-3222-4666-ad7b-1cd6ec8e2ad4",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/exams/quiz1/quiz_1.pdf",
+    "filename": "quiz_1.pdf",
+    "path": "sem2/la/exams/quiz1/quiz_1.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/exams/quiz1/quiz_1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "8cbc2e67-bc8e-479a-b282-5988611a4fdd",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/exams/quiz1/quiz_1_key.pdf",
+    "filename": "quiz_1_key.pdf",
+    "path": "sem2/la/exams/quiz1/quiz_1_key.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/exams/quiz1/quiz_1_key.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "4d2315d8-c8cb-48da-8051-5fec932dcbec",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/exams/quiz2/quiz_2.pdf",
+    "filename": "quiz_2.pdf",
+    "path": "sem2/la/exams/quiz2/quiz_2.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/exams/quiz2/quiz_2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "8f2dc034-bddc-472b-ad16-0f8d48d9db0c",
+    "id": "Fane1824/IIIT-Coursework/sem2/la/h2_tb.pdf",
+    "filename": "h2_tb.pdf",
+    "path": "sem2/la/h2_tb.pdf",
+    "repo": "IIIT-Coursework",
+    "owner": "Fane1824",
+    "branch": "main",
+    "url": "https://github.com/Fane1824/IIIT-Coursework/blob/main/sem2/la/h2_tb.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  }
+]

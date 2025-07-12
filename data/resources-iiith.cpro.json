@@ -1,0 +1,392 @@
+[
+  {
+    "uid": "6846cc21-d2b4-4b63-a3c3-cbb107df47b1",
+    "id": "resources-iiith/cpro/assignments/a1.pdf",
+    "filename": "a1.pdf",
+    "path": "assignments/a1.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/assignments/a1.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "8a1924fc-84ee-40e5-b9e0-a0aca681fcbe",
+    "id": "resources-iiith/cpro/assignments/a2.pdf",
+    "filename": "a2.pdf",
+    "path": "assignments/a2.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/assignments/a2.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "8b04ac6b-70a9-4706-b338-629b58aafc0f",
+    "id": "resources-iiith/cpro/assignments/a3.pdf",
+    "filename": "a3.pdf",
+    "path": "assignments/a3.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/assignments/a3.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "515dc06f-f709-4333-945a-427fdd1e0ff0",
+    "id": "resources-iiith/cpro/assignments/a4.pdf",
+    "filename": "a4.pdf",
+    "path": "assignments/a4.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/assignments/a4.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "5ca8a9a7-5f5b-4ead-b90d-6400cb2f0cd4",
+    "id": "resources-iiith/cpro/assignments/a5.pdf",
+    "filename": "a5.pdf",
+    "path": "assignments/a5.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/assignments/a5.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "47044ec4-1619-4471-a822-9aa82c6b3b42",
+    "id": "resources-iiith/cpro/labs/l1/l1.pdf",
+    "filename": "l1.pdf",
+    "path": "labs/l1/l1.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l1/l1.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "3093608f-4a2d-4431-a64f-0a1803ae4ff1",
+    "id": "resources-iiith/cpro/labs/l2/l2a.pdf",
+    "filename": "l2a.pdf",
+    "path": "labs/l2/l2a.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l2/l2a.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "bee586ff-ea8c-4b2b-b166-e5ef462e3a43",
+    "id": "resources-iiith/cpro/labs/l2/l2b.pdf",
+    "filename": "l2b.pdf",
+    "path": "labs/l2/l2b.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l2/l2b.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "deaaf8b0-512c-4281-96dd-76e284950417",
+    "id": "resources-iiith/cpro/labs/l2/l2c.pdf",
+    "filename": "l2c.pdf",
+    "path": "labs/l2/l2c.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l2/l2c.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "709906c7-f3bc-4466-9e2a-4e9abdf24693",
+    "id": "resources-iiith/cpro/labs/l2/l2d.pdf",
+    "filename": "l2d.pdf",
+    "path": "labs/l2/l2d.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l2/l2d.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "6a006540-f403-4c26-ab02-e19b7d2eec9b",
+    "id": "resources-iiith/cpro/labs/l3/l3a.pdf",
+    "filename": "l3a.pdf",
+    "path": "labs/l3/l3a.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l3/l3a.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "947ca771-564e-4888-b96f-7aaaab207af2",
+    "id": "resources-iiith/cpro/labs/l3/l3b.pdf",
+    "filename": "l3b.pdf",
+    "path": "labs/l3/l3b.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l3/l3b.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "111144f7-d756-4551-99af-b4de81fe572c",
+    "id": "resources-iiith/cpro/labs/l3/l3c.pdf",
+    "filename": "l3c.pdf",
+    "path": "labs/l3/l3c.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l3/l3c.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "446baa91-fbb4-423d-b546-81ce3582640d",
+    "id": "resources-iiith/cpro/labs/l3/l3d.pdf",
+    "filename": "l3d.pdf",
+    "path": "labs/l3/l3d.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l3/l3d.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "e8ffdd6e-40f9-4369-99a7-e5c13e7c7909",
+    "id": "resources-iiith/cpro/labs/l4/l4a.pdf",
+    "filename": "l4a.pdf",
+    "path": "labs/l4/l4a.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l4/l4a.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "413ca8c5-207a-46fd-b97b-38acc48ba183",
+    "id": "resources-iiith/cpro/labs/l4/l4b.pdf",
+    "filename": "l4b.pdf",
+    "path": "labs/l4/l4b.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l4/l4b.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "be8ed0b3-a3e3-401e-9ee9-8039f266f59b",
+    "id": "resources-iiith/cpro/labs/l4/l4c.pdf",
+    "filename": "l4c.pdf",
+    "path": "labs/l4/l4c.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l4/l4c.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "066571df-6974-4628-bf78-1c0ad4bca3fa",
+    "id": "resources-iiith/cpro/labs/l4/l4d.pdf",
+    "filename": "l4d.pdf",
+    "path": "labs/l4/l4d.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l4/l4d.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "5db58392-cb36-4a60-b229-b20b37764990",
+    "id": "resources-iiith/cpro/labs/l5/l5a.pdf",
+    "filename": "l5a.pdf",
+    "path": "labs/l5/l5a.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l5/l5a.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "d938e66d-0df4-4619-9851-fba7a633a987",
+    "id": "resources-iiith/cpro/labs/l5/l5b.pdf",
+    "filename": "l5b.pdf",
+    "path": "labs/l5/l5b.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l5/l5b.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "35a4f790-6f67-4bc7-b560-f4e50b79f3e3",
+    "id": "resources-iiith/cpro/labs/l5/l5c.pdf",
+    "filename": "l5c.pdf",
+    "path": "labs/l5/l5c.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l5/l5c.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "de8d0375-2006-4e29-8116-d186b0137f67",
+    "id": "resources-iiith/cpro/labs/l5/l5d.pdf",
+    "filename": "l5d.pdf",
+    "path": "labs/l5/l5d.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l5/l5d.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "b050d6d5-4a4a-4a78-a618-2da26e70e351",
+    "id": "resources-iiith/cpro/labs/l6/l6a.pdf",
+    "filename": "l6a.pdf",
+    "path": "labs/l6/l6a.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l6/l6a.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "74e754d8-332f-4e09-bb8d-3875cd2525de",
+    "id": "resources-iiith/cpro/labs/l6/l6b.pdf",
+    "filename": "l6b.pdf",
+    "path": "labs/l6/l6b.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l6/l6b.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "03713ed5-a15d-4b34-bd1c-ada80fa5fd11",
+    "id": "resources-iiith/cpro/labs/l6/l6d.pdf",
+    "filename": "l6d.pdf",
+    "path": "labs/l6/l6d.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/labs/l6/l6d.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": "lab"
+    }
+  },
+  {
+    "uid": "e6ea186b-38ee-4cb5-9303-0c8972a9a22d",
+    "id": "resources-iiith/cpro/other/prac1.pdf",
+    "filename": "prac1.pdf",
+    "path": "other/prac1.pdf",
+    "repo": "cpro",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/cpro/blob/main/other/prac1.pdf",
+    "tags": {
+      "course": "Computer Programming",
+      "shortCourse": "cpro",
+      "type": ""
+    }
+  }
+]

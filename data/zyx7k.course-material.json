@@ -1,0 +1,1922 @@
+[
+  {
+    "uid": "8e4feea1-a543-4c2d-bea1-0471d37126a9",
+    "id": "zyx7k/course-material/.gitignore",
+    "filename": ".gitignore",
+    "path": ".gitignore",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/.gitignore",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b1756d6e-b4d1-4f1b-a946-db9133f6346b",
+    "id": "zyx7k/course-material/monsoon_24/Algorithms and Operating Systems/osa_endsem.pdf",
+    "filename": "osa_endsem.pdf",
+    "path": "monsoon_24/Algorithms and Operating Systems/osa_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Algorithms and Operating Systems/osa_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "76e6aae1-a7a8-41dd-86b9-63886cbc675d",
+    "id": "zyx7k/course-material/monsoon_24/Behavioral Research and Experiment Design/bred_midsem.pdf",
+    "filename": "bred_midsem.pdf",
+    "path": "monsoon_24/Behavioral Research and Experiment Design/bred_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Behavioral Research and Experiment Design/bred_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "ed7fa94f-3632-4df1-9de1-4fc544935dfd",
+    "id": "zyx7k/course-material/monsoon_24/Digital Image Processing/dip_endsem.pdf",
+    "filename": "dip_endsem.pdf",
+    "path": "monsoon_24/Digital Image Processing/dip_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Digital Image Processing/dip_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f269d8fc-2878-477e-94c3-dd4f3e975699",
+    "id": "zyx7k/course-material/monsoon_24/Digital Image Processing/dip_midsem.pdf",
+    "filename": "dip_midsem.pdf",
+    "path": "monsoon_24/Digital Image Processing/dip_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Digital Image Processing/dip_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "189a2992-fbbe-48a8-a571-be48bbcb8a03",
+    "id": "zyx7k/course-material/monsoon_24/Digital VLSI Design/dvd_midsem.pdf",
+    "filename": "dvd_midsem.pdf",
+    "path": "monsoon_24/Digital VLSI Design/dvd_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Digital VLSI Design/dvd_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "21dc5582-bb90-47d6-8177-323fb12cf275",
+    "id": "zyx7k/course-material/monsoon_24/Digital VLSI Design/dvd_quiz2.pdf",
+    "filename": "dvd_quiz2.pdf",
+    "path": "monsoon_24/Digital VLSI Design/dvd_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Digital VLSI Design/dvd_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "4800415e-c55d-4861-b295-aed4db759dd7",
+    "id": "zyx7k/course-material/monsoon_24/Distributed Systems/distributed_systems_endsem.pdf",
+    "filename": "distributed_systems_endsem.pdf",
+    "path": "monsoon_24/Distributed Systems/distributed_systems_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Distributed Systems/distributed_systems_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3d74b528-a7b6-4e06-97b1-f82722150b40",
+    "id": "zyx7k/course-material/monsoon_24/Distributed Systems/distributed_systems_quiz_1.pdf",
+    "filename": "distributed_systems_quiz_1.pdf",
+    "path": "monsoon_24/Distributed Systems/distributed_systems_quiz_1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Distributed Systems/distributed_systems_quiz_1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3d333a09-8a68-462e-a6ba-cdd73868d4aa",
+    "id": "zyx7k/course-material/monsoon_24/Gender and Society/gender_and_society_endsem.pdf",
+    "filename": "gender_and_society_endsem.pdf",
+    "path": "monsoon_24/Gender and Society/gender_and_society_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Gender and Society/gender_and_society_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6b159145-7701-4c2f-86ce-654b5673193e",
+    "id": "zyx7k/course-material/monsoon_24/Gender and Society/gender_and_society_midsem.pdf",
+    "filename": "gender_and_society_midsem.pdf",
+    "path": "monsoon_24/Gender and Society/gender_and_society_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Gender and Society/gender_and_society_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "fb36b24f-9358-4e87-93a7-2dc4c51c59b0",
+    "id": "zyx7k/course-material/monsoon_24/Gender and Society/gender_and_society_quiz1.pdf",
+    "filename": "gender_and_society_quiz1.pdf",
+    "path": "monsoon_24/Gender and Society/gender_and_society_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Gender and Society/gender_and_society_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "8ff3c94a-3e0d-4ef1-8a29-1153e6afb1e8",
+    "id": "zyx7k/course-material/monsoon_24/Intro to Philosophy/intro_to_philosophy_midsem.pdf",
+    "filename": "intro_to_philosophy_midsem.pdf",
+    "path": "monsoon_24/Intro to Philosophy/intro_to_philosophy_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Intro to Philosophy/intro_to_philosophy_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "530fbbf7-45ee-496e-9d58-f36f7a8fe578",
+    "id": "zyx7k/course-material/monsoon_24/Introduction to Quantum Field Theory/iqft_endsem.pdf",
+    "filename": "iqft_endsem.pdf",
+    "path": "monsoon_24/Introduction to Quantum Field Theory/iqft_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Introduction to Quantum Field Theory/iqft_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "040b8d3c-f4d9-45b1-bc11-7f4a5b1ba2fc",
+    "id": "zyx7k/course-material/monsoon_24/Mobile Robotics/MR_endsem.pdf",
+    "filename": "MR_endsem.pdf",
+    "path": "monsoon_24/Mobile Robotics/MR_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Mobile Robotics/MR_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "094f032d-1a44-42ae-acbb-40865a28ebea",
+    "id": "zyx7k/course-material/monsoon_24/Mobile Robotics/MR_midsem.pdf",
+    "filename": "MR_midsem.pdf",
+    "path": "monsoon_24/Mobile Robotics/MR_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Mobile Robotics/MR_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "520ee863-76ec-49af-ae50-6e4a1a2eeabe",
+    "id": "zyx7k/course-material/monsoon_24/Readings from Hindi Literature/hindi_endsem.pdf",
+    "filename": "hindi_endsem.pdf",
+    "path": "monsoon_24/Readings from Hindi Literature/hindi_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Readings from Hindi Literature/hindi_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "62739834-a477-4daf-9c40-7674d54bdc78",
+    "id": "zyx7k/course-material/monsoon_24/Readings from Hindi Literature/hindi_midsem.pdf",
+    "filename": "hindi_midsem.pdf",
+    "path": "monsoon_24/Readings from Hindi Literature/hindi_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Readings from Hindi Literature/hindi_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f1597f07-670f-4eb6-872c-c66842f14715",
+    "id": "zyx7k/course-material/monsoon_24/Signal Detection and Estimation Theory/SDET_endsem.pdf",
+    "filename": "SDET_endsem.pdf",
+    "path": "monsoon_24/Signal Detection and Estimation Theory/SDET_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Signal Detection and Estimation Theory/SDET_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "65ea971a-c3a8-4a19-9bb2-09481e836425",
+    "id": "zyx7k/course-material/monsoon_24/Topics in Applied Optimization/tao_endsem.pdf",
+    "filename": "tao_endsem.pdf",
+    "path": "monsoon_24/Topics in Applied Optimization/tao_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Topics in Applied Optimization/tao_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "238e9cd2-0474-474c-b31f-cf6171a8a60f",
+    "id": "zyx7k/course-material/monsoon_24/Topics in Applied Optimization/tao_midsem.pdf",
+    "filename": "tao_midsem.pdf",
+    "path": "monsoon_24/Topics in Applied Optimization/tao_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/monsoon_24/Topics in Applied Optimization/tao_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b3144bc0-9b45-431b-a549-b215a19bc5b3",
+    "id": "zyx7k/course-material/sem_1/Computer Programming/cpro_quiz1.pdf",
+    "filename": "cpro_quiz1.pdf",
+    "path": "sem_1/Computer Programming/cpro_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Computer Programming/cpro_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "cpro",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "1fb7d228-c932-4952-b11d-8f86ed6370b0",
+    "id": "zyx7k/course-material/sem_1/Computer Programming/cpro_quiz2.pdf",
+    "filename": "cpro_quiz2.pdf",
+    "path": "sem_1/Computer Programming/cpro_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Computer Programming/cpro_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "cpro",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "3b600ffe-0687-49a5-8568-06725d82ce9e",
+    "id": "zyx7k/course-material/sem_1/Digital Systems and Microcontrollers/dsm_endsem.pdf",
+    "filename": "dsm_endsem.pdf",
+    "path": "sem_1/Digital Systems and Microcontrollers/dsm_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Digital Systems and Microcontrollers/dsm_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "b391925f-9301-480e-aeaa-951f6b8e4290",
+    "id": "zyx7k/course-material/sem_1/Digital Systems and Microcontrollers/dsm_endsem_makeup_exam.pdf",
+    "filename": "dsm_endsem_makeup_exam.pdf",
+    "path": "sem_1/Digital Systems and Microcontrollers/dsm_endsem_makeup_exam.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Digital Systems and Microcontrollers/dsm_endsem_makeup_exam.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "2d899b21-b6de-4e1c-a17f-8a8831f8f3a7",
+    "id": "zyx7k/course-material/sem_1/Digital Systems and Microcontrollers/dsm_midsem.pdf",
+    "filename": "dsm_midsem.pdf",
+    "path": "sem_1/Digital Systems and Microcontrollers/dsm_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Digital Systems and Microcontrollers/dsm_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "fdd66004-8cbf-4db5-8b8b-ec6b3fa6653c",
+    "id": "zyx7k/course-material/sem_1/Digital Systems and Microcontrollers/dsm_quiz1_setA.pdf",
+    "filename": "dsm_quiz1_setA.pdf",
+    "path": "sem_1/Digital Systems and Microcontrollers/dsm_quiz1_setA.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Digital Systems and Microcontrollers/dsm_quiz1_setA.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "d184db6e-e4cb-46be-8718-f15d4e8aaa64",
+    "id": "zyx7k/course-material/sem_1/Discrete Structures/ds_endsem.pdf",
+    "filename": "ds_endsem.pdf",
+    "path": "sem_1/Discrete Structures/ds_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Discrete Structures/ds_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "9c8fff54-c518-4a7b-95f8-fb78abf34624",
+    "id": "zyx7k/course-material/sem_1/Discrete Structures/ds_midsem.pdf",
+    "filename": "ds_midsem.pdf",
+    "path": "sem_1/Discrete Structures/ds_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Discrete Structures/ds_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "816df6d1-87c9-43f8-a457-d08ed26f6d36",
+    "id": "zyx7k/course-material/sem_1/Discrete Structures/ds_quiz2.pdf",
+    "filename": "ds_quiz2.pdf",
+    "path": "sem_1/Discrete Structures/ds_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Discrete Structures/ds_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "581e514e-07b0-42c2-a8d5-53880b168fcc",
+    "id": "zyx7k/course-material/sem_1/Networks, Signals and Systems/ness_endsem.pdf",
+    "filename": "ness_endsem.pdf",
+    "path": "sem_1/Networks, Signals and Systems/ness_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Networks, Signals and Systems/ness_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "ced1cec6-aae2-4689-83d3-b00246b72c1d",
+    "id": "zyx7k/course-material/sem_1/Networks, Signals and Systems/ness_midsem.pdf",
+    "filename": "ness_midsem.pdf",
+    "path": "sem_1/Networks, Signals and Systems/ness_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Networks, Signals and Systems/ness_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "0b445bf9-7a64-428e-aeb9-da846344b96a",
+    "id": "zyx7k/course-material/sem_1/Networks, Signals and Systems/ness_quiz1.pdf",
+    "filename": "ness_quiz1.pdf",
+    "path": "sem_1/Networks, Signals and Systems/ness_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Networks, Signals and Systems/ness_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "1b619046-3a04-4fcc-8662-b34d696dd50a",
+    "id": "zyx7k/course-material/sem_1/Networks, Signals and Systems/ness_quiz2.pdf",
+    "filename": "ness_quiz2.pdf",
+    "path": "sem_1/Networks, Signals and Systems/ness_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Networks, Signals and Systems/ness_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "4c8e096e-9aae-4335-9c75-3e4f01ecd84e",
+    "id": "zyx7k/course-material/sem_1/Real Analysis/real_analysis_endsem.pdf",
+    "filename": "real_analysis_endsem.pdf",
+    "path": "sem_1/Real Analysis/real_analysis_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Real Analysis/real_analysis_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "ra",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "f82dc7d2-361b-4600-9741-f8e0a4311886",
+    "id": "zyx7k/course-material/sem_1/Real Analysis/real_analysis_midsem.pdf",
+    "filename": "real_analysis_midsem.pdf",
+    "path": "sem_1/Real Analysis/real_analysis_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Real Analysis/real_analysis_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "ra",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "91f258d8-b31c-4b8c-b125-395ab845e91d",
+    "id": "zyx7k/course-material/sem_1/Real Analysis/real_analysis_quiz1.pdf",
+    "filename": "real_analysis_quiz1.pdf",
+    "path": "sem_1/Real Analysis/real_analysis_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Real Analysis/real_analysis_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "ra",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "84fe0a0f-9a7c-418c-94dc-56366dcc625e",
+    "id": "zyx7k/course-material/sem_1/Real Analysis/real_analysis_quiz2.pdf",
+    "filename": "real_analysis_quiz2.pdf",
+    "path": "sem_1/Real Analysis/real_analysis_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_1/Real Analysis/real_analysis_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "ra",
+      "type": "exam"
+    }
+  },
+  {
+    "uid": "98f33e2d-a87a-445e-b767-62c6cef00137",
+    "id": "zyx7k/course-material/sem_2/Analog Electronic Circuits/aec_endsem.pdf",
+    "filename": "aec_endsem.pdf",
+    "path": "sem_2/Analog Electronic Circuits/aec_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Analog Electronic Circuits/aec_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6ebeecc9-c168-4558-860d-67a6b4f96cd7",
+    "id": "zyx7k/course-material/sem_2/Analog Electronic Circuits/aec_midsem.pdf",
+    "filename": "aec_midsem.pdf",
+    "path": "sem_2/Analog Electronic Circuits/aec_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Analog Electronic Circuits/aec_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "31db9f4f-8625-4fa7-a2e1-b92782a41ec7",
+    "id": "zyx7k/course-material/sem_2/Analog Electronic Circuits/aec_quiz1.pdf",
+    "filename": "aec_quiz1.pdf",
+    "path": "sem_2/Analog Electronic Circuits/aec_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Analog Electronic Circuits/aec_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "71f55310-1586-41f4-a22c-d2f0b363e27d",
+    "id": "zyx7k/course-material/sem_2/Analog Electronic Circuits/aec_quiz2.pdf",
+    "filename": "aec_quiz2.pdf",
+    "path": "sem_2/Analog Electronic Circuits/aec_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Analog Electronic Circuits/aec_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "4f00d340-79a1-4035-a5c5-853957a69007",
+    "id": "zyx7k/course-material/sem_2/DSA Assingments/DSA23_A1.pdf",
+    "filename": "DSA23_A1.pdf",
+    "path": "sem_2/DSA Assingments/DSA23_A1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/DSA Assingments/DSA23_A1.pdf",
+    "tags": {
+      "course": "Data Structures and Algorithms",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "60f870c3-9ccf-4f08-b91c-7b413019a8b1",
+    "id": "zyx7k/course-material/sem_2/DSA Assingments/DSA23_A2.pdf",
+    "filename": "DSA23_A2.pdf",
+    "path": "sem_2/DSA Assingments/DSA23_A2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/DSA Assingments/DSA23_A2.pdf",
+    "tags": {
+      "course": "Data Structures and Algorithms",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "804bd878-f86b-4db2-8a40-d34d6c798c61",
+    "id": "zyx7k/course-material/sem_2/DSA Assingments/DSA23_A3.pdf",
+    "filename": "DSA23_A3.pdf",
+    "path": "sem_2/DSA Assingments/DSA23_A3.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/DSA Assingments/DSA23_A3.pdf",
+    "tags": {
+      "course": "Data Structures and Algorithms",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "88381b3f-4028-499b-b3ed-087a48187a72",
+    "id": "zyx7k/course-material/sem_2/DSA Assingments/DSA23_A4.pdf",
+    "filename": "DSA23_A4.pdf",
+    "path": "sem_2/DSA Assingments/DSA23_A4.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/DSA Assingments/DSA23_A4.pdf",
+    "tags": {
+      "course": "Data Structures and Algorithms",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "e1086037-2742-4281-b0cf-0294eef1b8f4",
+    "id": "zyx7k/course-material/sem_2/DSA Assingments/DSA23_A5.pdf",
+    "filename": "DSA23_A5.pdf",
+    "path": "sem_2/DSA Assingments/DSA23_A5.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/DSA Assingments/DSA23_A5.pdf",
+    "tags": {
+      "course": "Data Structures and Algorithms",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "6fc82da7-01b7-4db1-bc3c-d2a5ac151a21",
+    "id": "zyx7k/course-material/sem_2/DSA Assingments/DSA23_Bonus_Question.pdf",
+    "filename": "DSA23_Bonus_Question.pdf",
+    "path": "sem_2/DSA Assingments/DSA23_Bonus_Question.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/DSA Assingments/DSA23_Bonus_Question.pdf",
+    "tags": {
+      "course": "Data Structures and Algorithms",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "b42103b8-7ea0-43a4-b484-aed66bee0c38",
+    "id": "zyx7k/course-material/sem_2/Information and Communication/ic_endsem.pdf",
+    "filename": "ic_endsem.pdf",
+    "path": "sem_2/Information and Communication/ic_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Information and Communication/ic_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "bf8a1367-de61-4932-bda3-3eeb03eee5bc",
+    "id": "zyx7k/course-material/sem_2/Information and Communication/ic_endsem_solutions.pdf",
+    "filename": "ic_endsem_solutions.pdf",
+    "path": "sem_2/Information and Communication/ic_endsem_solutions.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Information and Communication/ic_endsem_solutions.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "591595dc-13e9-4beb-9c03-b23190779d67",
+    "id": "zyx7k/course-material/sem_2/Information and Communication/ic_midsem.pdf",
+    "filename": "ic_midsem.pdf",
+    "path": "sem_2/Information and Communication/ic_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Information and Communication/ic_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6758ed04-1c6c-4474-b787-11878d820ebc",
+    "id": "zyx7k/course-material/sem_2/Information and Communication/ic_midsem_solutions.pdf",
+    "filename": "ic_midsem_solutions.pdf",
+    "path": "sem_2/Information and Communication/ic_midsem_solutions.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Information and Communication/ic_midsem_solutions.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "efdc6f6c-1826-4c0b-b43a-968247d351ad",
+    "id": "zyx7k/course-material/sem_2/Information and Communication/ic_quiz1.pdf",
+    "filename": "ic_quiz1.pdf",
+    "path": "sem_2/Information and Communication/ic_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Information and Communication/ic_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "5adc36d4-00d9-49ae-806a-f394583fdc7b",
+    "id": "zyx7k/course-material/sem_2/Information and Communication/ic_quiz1_solutions.pdf",
+    "filename": "ic_quiz1_solutions.pdf",
+    "path": "sem_2/Information and Communication/ic_quiz1_solutions.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Information and Communication/ic_quiz1_solutions.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f6143a6a-9df6-4b98-baf1-5b104b7841d8",
+    "id": "zyx7k/course-material/sem_2/Information and Communication/ic_quiz2.pdf",
+    "filename": "ic_quiz2.pdf",
+    "path": "sem_2/Information and Communication/ic_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Information and Communication/ic_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3347a8e5-b31b-4b19-8662-730218ac5de1",
+    "id": "zyx7k/course-material/sem_2/Information and Communication/ic_quiz2_solutions.pdf",
+    "filename": "ic_quiz2_solutions.pdf",
+    "path": "sem_2/Information and Communication/ic_quiz2_solutions.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Information and Communication/ic_quiz2_solutions.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3a30ef10-fe11-47fb-b688-ac5bf154b93c",
+    "id": "zyx7k/course-material/sem_2/Introduction to IoT/iot_endsem.pdf",
+    "filename": "iot_endsem.pdf",
+    "path": "sem_2/Introduction to IoT/iot_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Introduction to IoT/iot_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "205e5c3b-0701-4966-a03e-2b4f1c9f0e22",
+    "id": "zyx7k/course-material/sem_2/Introduction to Software Systems/iss_endsem.pdf",
+    "filename": "iss_endsem.pdf",
+    "path": "sem_2/Introduction to Software Systems/iss_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Introduction to Software Systems/iss_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "9daf4e8c-7de5-4e6b-b24d-1c9a2a223a89",
+    "id": "zyx7k/course-material/sem_2/Linear Algebra/linear_algebra_midsem.pdf",
+    "filename": "linear_algebra_midsem.pdf",
+    "path": "sem_2/Linear Algebra/linear_algebra_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Linear Algebra/linear_algebra_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b0a67c92-38d9-48df-8264-485ac25d11dc",
+    "id": "zyx7k/course-material/sem_2/Linear Algebra/linear_algebra_quiz1.pdf",
+    "filename": "linear_algebra_quiz1.pdf",
+    "path": "sem_2/Linear Algebra/linear_algebra_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Linear Algebra/linear_algebra_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6b073845-c856-483b-b36f-e0a063843b91",
+    "id": "zyx7k/course-material/sem_2/Linear Algebra/linear_algebra_quiz1_solutions.pdf",
+    "filename": "linear_algebra_quiz1_solutions.pdf",
+    "path": "sem_2/Linear Algebra/linear_algebra_quiz1_solutions.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Linear Algebra/linear_algebra_quiz1_solutions.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "d399f1b7-25fd-42c5-aa60-be0c87e787ed",
+    "id": "zyx7k/course-material/sem_2/Linear Algebra/linear_algebra_quiz2.pdf",
+    "filename": "linear_algebra_quiz2.pdf",
+    "path": "sem_2/Linear Algebra/linear_algebra_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Linear Algebra/linear_algebra_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "2c5c2793-b105-47af-aa28-b1e961bd0670",
+    "id": "zyx7k/course-material/sem_2/Linear Algebra/linear_algebra_surprize_quiz.pdf",
+    "filename": "linear_algebra_surprize_quiz.pdf",
+    "path": "sem_2/Linear Algebra/linear_algebra_surprize_quiz.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_2/Linear Algebra/linear_algebra_surprize_quiz.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e65d9d45-cd61-43af-8813-c6101f6f4c4a",
+    "id": "zyx7k/course-material/sem_3/Algorithm Analysis and Design/aad_endsem.pdf",
+    "filename": "aad_endsem.pdf",
+    "path": "sem_3/Algorithm Analysis and Design/aad_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Algorithm Analysis and Design/aad_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "9ed8cf4c-305a-4df3-a57e-e184d99dcc3c",
+    "id": "zyx7k/course-material/sem_3/Algorithm Analysis and Design/aad_midsem.pdf",
+    "filename": "aad_midsem.pdf",
+    "path": "sem_3/Algorithm Analysis and Design/aad_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Algorithm Analysis and Design/aad_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "0e471cbf-60f6-473d-b453-4e22b0bc029f",
+    "id": "zyx7k/course-material/sem_3/Algorithm Analysis and Design/aad_quiz2.pdf",
+    "filename": "aad_quiz2.pdf",
+    "path": "sem_3/Algorithm Analysis and Design/aad_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Algorithm Analysis and Design/aad_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "5899ee0c-7eee-4865-a987-27f313b7ee44",
+    "id": "zyx7k/course-material/sem_3/Automata Theory/at_quiz1.pdf",
+    "filename": "at_quiz1.pdf",
+    "path": "sem_3/Automata Theory/at_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Automata Theory/at_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b9e5cb3e-2aa1-4265-a667-c4d4e91b50b3",
+    "id": "zyx7k/course-material/sem_3/Data and Applications/dna_endsem.pdf",
+    "filename": "dna_endsem.pdf",
+    "path": "sem_3/Data and Applications/dna_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Data and Applications/dna_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "c8455cc9-ef9d-4ccd-b1a7-a927c29215a4",
+    "id": "zyx7k/course-material/sem_3/Data and Applications/dna_quiz1.pdf",
+    "filename": "dna_quiz1.pdf",
+    "path": "sem_3/Data and Applications/dna_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Data and Applications/dna_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "65565c56-30b6-4cd4-9f45-343b1ffc2eb2",
+    "id": "zyx7k/course-material/sem_3/Data and Applications/dna_quiz2.pdf",
+    "filename": "dna_quiz2.pdf",
+    "path": "sem_3/Data and Applications/dna_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Data and Applications/dna_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "008a1dc7-ab73-469c-9244-c4d08293f376",
+    "id": "zyx7k/course-material/sem_3/Operating System and Networks/osn_endsem.pdf",
+    "filename": "osn_endsem.pdf",
+    "path": "sem_3/Operating System and Networks/osn_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Operating System and Networks/osn_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "794526eb-0ab6-4827-a909-13c2a5e93aa9",
+    "id": "zyx7k/course-material/sem_3/Probability and Random Processes/prp_endsem.pdf",
+    "filename": "prp_endsem.pdf",
+    "path": "sem_3/Probability and Random Processes/prp_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Random Processes/prp_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "c5eac9d7-ba82-4562-aaad-a8fefab16302",
+    "id": "zyx7k/course-material/sem_3/Probability and Random Processes/prp_midsem.pdf",
+    "filename": "prp_midsem.pdf",
+    "path": "sem_3/Probability and Random Processes/prp_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Random Processes/prp_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "1f4a82a4-76fd-42b2-808d-f0cac0120f1e",
+    "id": "zyx7k/course-material/sem_3/Probability and Random Processes/prp_quiz1.pdf",
+    "filename": "prp_quiz1.pdf",
+    "path": "sem_3/Probability and Random Processes/prp_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Random Processes/prp_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e71af64a-7dfe-43ea-8d48-90336747fda7",
+    "id": "zyx7k/course-material/sem_3/Probability and Random Processes/prp_quiz2_with_solns.pdf",
+    "filename": "prp_quiz2_with_solns.pdf",
+    "path": "sem_3/Probability and Random Processes/prp_quiz2_with_solns.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Random Processes/prp_quiz2_with_solns.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "27a3e57a-a9dc-4747-8015-0ae8784dfdf0",
+    "id": "zyx7k/course-material/sem_3/Probability and Statistics/pns_ass1.pdf",
+    "filename": "pns_ass1.pdf",
+    "path": "sem_3/Probability and Statistics/pns_ass1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Statistics/pns_ass1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "assignment"
+    }
+  },
+  {
+    "uid": "6b14ed4c-a7a3-4a0a-bcea-f0b972f05d60",
+    "id": "zyx7k/course-material/sem_3/Probability and Statistics/pns_ass2.pdf",
+    "filename": "pns_ass2.pdf",
+    "path": "sem_3/Probability and Statistics/pns_ass2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Statistics/pns_ass2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3f671c41-f35f-4e9f-9fad-f9c28ea26ae6",
+    "id": "zyx7k/course-material/sem_3/Probability and Statistics/pns_endsem.pdf",
+    "filename": "pns_endsem.pdf",
+    "path": "sem_3/Probability and Statistics/pns_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Statistics/pns_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f5294118-f1da-4e26-8713-e24ecd2fa22d",
+    "id": "zyx7k/course-material/sem_3/Probability and Statistics/pns_midsem.pdf",
+    "filename": "pns_midsem.pdf",
+    "path": "sem_3/Probability and Statistics/pns_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Statistics/pns_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "2a707597-c59e-48fa-b3f9-af3e99f29150",
+    "id": "zyx7k/course-material/sem_3/Probability and Statistics/pns_quiz1.pdf",
+    "filename": "pns_quiz1.pdf",
+    "path": "sem_3/Probability and Statistics/pns_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Statistics/pns_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "548b6abd-53c5-4154-ae94-536546230481",
+    "id": "zyx7k/course-material/sem_3/Probability and Statistics/pns_quiz2.pdf",
+    "filename": "pns_quiz2.pdf",
+    "path": "sem_3/Probability and Statistics/pns_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Probability and Statistics/pns_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e288fa18-f264-40f2-a6b4-13226f677a17",
+    "id": "zyx7k/course-material/sem_3/Science 1/sci_endsem.pdf",
+    "filename": "sci_endsem.pdf",
+    "path": "sem_3/Science 1/sci_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Science 1/sci_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "da438011-f0e2-4119-bfa3-585480bd3494",
+    "id": "zyx7k/course-material/sem_3/Science 1/sci_midsem.pdf",
+    "filename": "sci_midsem.pdf",
+    "path": "sem_3/Science 1/sci_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Science 1/sci_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6f35120b-55e5-4262-a09c-f7c44e1fe932",
+    "id": "zyx7k/course-material/sem_3/Science 1/sci_quiz1.pdf",
+    "filename": "sci_quiz1.pdf",
+    "path": "sem_3/Science 1/sci_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Science 1/sci_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "23b1cdea-d1e0-48b7-a23d-14160be55681",
+    "id": "zyx7k/course-material/sem_3/Science 1/sci_quiz2.pdf",
+    "filename": "sci_quiz2.pdf",
+    "path": "sem_3/Science 1/sci_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Science 1/sci_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "7e7d5151-bb14-47d9-88c9-7a78629b3577",
+    "id": "zyx7k/course-material/sem_3/Signal Processing/sp_endsem.pdf",
+    "filename": "sp_endsem.pdf",
+    "path": "sem_3/Signal Processing/sp_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Signal Processing/sp_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "7b983257-25bd-41cb-888c-62ec5172cb55",
+    "id": "zyx7k/course-material/sem_3/Signal Processing/sp_midsem.pdf",
+    "filename": "sp_midsem.pdf",
+    "path": "sem_3/Signal Processing/sp_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Signal Processing/sp_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "0d93fca4-b37a-46d1-966b-ea9a9bb65761",
+    "id": "zyx7k/course-material/sem_3/Signal Processing/sp_midsem_re.pdf",
+    "filename": "sp_midsem_re.pdf",
+    "path": "sem_3/Signal Processing/sp_midsem_re.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Signal Processing/sp_midsem_re.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "d69d0fdf-3846-4332-bf8a-c91d8fa978a4",
+    "id": "zyx7k/course-material/sem_3/Signal Processing/sp_quiz2.pdf",
+    "filename": "sp_quiz2.pdf",
+    "path": "sem_3/Signal Processing/sp_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Signal Processing/sp_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "3e0bc09b-55d9-4191-97fa-c7db6d4e6553",
+    "id": "zyx7k/course-material/sem_3/Systems Thinking/st_endsem.pdf",
+    "filename": "st_endsem.pdf",
+    "path": "sem_3/Systems Thinking/st_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Systems Thinking/st_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "21831eb4-a486-4fd9-ad5e-f965f498c12a",
+    "id": "zyx7k/course-material/sem_3/Systems Thinking/st_midsem.pdf",
+    "filename": "st_midsem.pdf",
+    "path": "sem_3/Systems Thinking/st_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Systems Thinking/st_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "4294514c-5ef4-4d40-b609-a40a4b369b99",
+    "id": "zyx7k/course-material/sem_3/Systems Thinking/st_quiz2.pdf",
+    "filename": "st_quiz2.pdf",
+    "path": "sem_3/Systems Thinking/st_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/Systems Thinking/st_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "2be2eaf4-f94d-49fc-8a4d-bf193e2be18f",
+    "id": "zyx7k/course-material/sem_3/VLSI Design/vlsi_endsem.pdf",
+    "filename": "vlsi_endsem.pdf",
+    "path": "sem_3/VLSI Design/vlsi_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/VLSI Design/vlsi_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e9b229e6-97fe-4bb7-99fc-930719f76ea8",
+    "id": "zyx7k/course-material/sem_3/VLSI Design/vlsi_midsem.pdf",
+    "filename": "vlsi_midsem.pdf",
+    "path": "sem_3/VLSI Design/vlsi_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_3/VLSI Design/vlsi_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e4b10ab9-22a5-4f22-ac52-3b88be3ef53d",
+    "id": "zyx7k/course-material/sem_4/Communication Theory/ct_endsem.pdf",
+    "filename": "ct_endsem.pdf",
+    "path": "sem_4/Communication Theory/ct_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Communication Theory/ct_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "6910ba28-9328-44f7-a7de-710d78a5a6f4",
+    "id": "zyx7k/course-material/sem_4/Communication Theory/ct_midsem.pdf",
+    "filename": "ct_midsem.pdf",
+    "path": "sem_4/Communication Theory/ct_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Communication Theory/ct_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "08ba6898-a180-4ee2-87e7-31f1030f9535",
+    "id": "zyx7k/course-material/sem_4/Communication Theory/ct_quiz1.pdf",
+    "filename": "ct_quiz1.pdf",
+    "path": "sem_4/Communication Theory/ct_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Communication Theory/ct_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "0ee4d259-2913-4de0-81b0-bc1f60457f7e",
+    "id": "zyx7k/course-material/sem_4/Communication Theory/ct_quiz2.pdf",
+    "filename": "ct_quiz2.pdf",
+    "path": "sem_4/Communication Theory/ct_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Communication Theory/ct_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "44713b7d-02eb-434e-b700-efbae8b7bc75",
+    "id": "zyx7k/course-material/sem_4/Communications and Controls in IoT/cciot_endsem.pdf",
+    "filename": "cciot_endsem.pdf",
+    "path": "sem_4/Communications and Controls in IoT/cciot_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Communications and Controls in IoT/cciot_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "9b662a72-7f1f-4983-b652-89edfda80589",
+    "id": "zyx7k/course-material/sem_4/Communications and Controls in IoT/cciot_quiz2.pdf",
+    "filename": "cciot_quiz2.pdf",
+    "path": "sem_4/Communications and Controls in IoT/cciot_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Communications and Controls in IoT/cciot_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "7b1586e8-020a-4fd2-a554-fc5c79473581",
+    "id": "zyx7k/course-material/sem_4/Computer Graphics/cg_endsem.pdf",
+    "filename": "cg_endsem.pdf",
+    "path": "sem_4/Computer Graphics/cg_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Computer Graphics/cg_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "e1861cb2-00db-4662-9815-69418d47525c",
+    "id": "zyx7k/course-material/sem_4/Computer Graphics/cg_quiz1.pdf",
+    "filename": "cg_quiz1.pdf",
+    "path": "sem_4/Computer Graphics/cg_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Computer Graphics/cg_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "32ae3c76-7ef0-48a2-b80f-048c46df7325",
+    "id": "zyx7k/course-material/sem_4/Design and Analysis of Software Systems/dass_endsem.pdf",
+    "filename": "dass_endsem.pdf",
+    "path": "sem_4/Design and Analysis of Software Systems/dass_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Design and Analysis of Software Systems/dass_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "59defa5a-d7a8-4517-b64a-f17f32e78b2d",
+    "id": "zyx7k/course-material/sem_4/Design and Analysis of Software Systems/dass_midsem.pdf",
+    "filename": "dass_midsem.pdf",
+    "path": "sem_4/Design and Analysis of Software Systems/dass_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Design and Analysis of Software Systems/dass_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "4c998871-46da-4553-bc04-52bb94f404dc",
+    "id": "zyx7k/course-material/sem_4/Design and Analysis of Software Systems/dass_quiz1.pdf",
+    "filename": "dass_quiz1.pdf",
+    "path": "sem_4/Design and Analysis of Software Systems/dass_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Design and Analysis of Software Systems/dass_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "0560915b-06f3-4390-8790-6e13ca8c799c",
+    "id": "zyx7k/course-material/sem_4/Design and Analysis of Software Systems/dass_quiz2.pdf",
+    "filename": "dass_quiz2.pdf",
+    "path": "sem_4/Design and Analysis of Software Systems/dass_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Design and Analysis of Software Systems/dass_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f60c5bf3-5b69-4020-a01b-81dec102cf47",
+    "id": "zyx7k/course-material/sem_4/Intro to Algorithm Engineering/algo_eng_endsem.pdf",
+    "filename": "algo_eng_endsem.pdf",
+    "path": "sem_4/Intro to Algorithm Engineering/algo_eng_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Intro to Algorithm Engineering/algo_eng_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "1e2abb72-a24b-4b05-9967-3a687c9c0f87",
+    "id": "zyx7k/course-material/sem_4/Intro to Coding Theory/ict_midsem.pdf",
+    "filename": "ict_midsem.pdf",
+    "path": "sem_4/Intro to Coding Theory/ict_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Intro to Coding Theory/ict_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "5cf41ee2-be6c-4227-9a77-57ccc02e7e2f",
+    "id": "zyx7k/course-material/sem_4/Intro to Coding Theory/ict_quiz1.pdf",
+    "filename": "ict_quiz1.pdf",
+    "path": "sem_4/Intro to Coding Theory/ict_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Intro to Coding Theory/ict_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "d2dd2b2a-e1cf-4c11-8574-47399539ff48",
+    "id": "zyx7k/course-material/sem_4/Intro to Human Sciences/ihs_endsem.pdf",
+    "filename": "ihs_endsem.pdf",
+    "path": "sem_4/Intro to Human Sciences/ihs_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Intro to Human Sciences/ihs_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "4b506628-6951-4571-a8bb-5be2be497cbd",
+    "id": "zyx7k/course-material/sem_4/Intro to Human Sciences/ihs_midsem.pdf",
+    "filename": "ihs_midsem.pdf",
+    "path": "sem_4/Intro to Human Sciences/ihs_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Intro to Human Sciences/ihs_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "07029519-fd00-4302-ac64-85d4cb26542a",
+    "id": "zyx7k/course-material/sem_4/Intro to Human Sciences/ihs_quiz2.pdf",
+    "filename": "ihs_quiz2.pdf",
+    "path": "sem_4/Intro to Human Sciences/ihs_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Intro to Human Sciences/ihs_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "a0b81317-59cb-4281-9092-fe6493487c9d",
+    "id": "zyx7k/course-material/sem_4/Intro to Processor Architecture/ipa_midsem.pdf",
+    "filename": "ipa_midsem.pdf",
+    "path": "sem_4/Intro to Processor Architecture/ipa_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Intro to Processor Architecture/ipa_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "ed9a6829-af49-4f56-b051-53784f83d2e3",
+    "id": "zyx7k/course-material/sem_4/Intro to Processor Architecture/ipa_quiz1.pdf",
+    "filename": "ipa_quiz1.pdf",
+    "path": "sem_4/Intro to Processor Architecture/ipa_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Intro to Processor Architecture/ipa_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "bda66001-d2b4-446d-82a4-f24beefe4859",
+    "id": "zyx7k/course-material/sem_4/Introduction to Quantum Information and Computation/iqic_midsem.pdf",
+    "filename": "iqic_midsem.pdf",
+    "path": "sem_4/Introduction to Quantum Information and Computation/iqic_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Introduction to Quantum Information and Computation/iqic_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "d120b687-632b-4a88-acbf-68470766d5c5",
+    "id": "zyx7k/course-material/sem_4/Introduction to Quantum Information and Computation/iqic_quiz_1.pdf",
+    "filename": "iqic_quiz_1.pdf",
+    "path": "sem_4/Introduction to Quantum Information and Computation/iqic_quiz_1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Introduction to Quantum Information and Computation/iqic_quiz_1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "85e2571d-1709-430d-bf42-334d9393436d",
+    "id": "zyx7k/course-material/sem_4/Machine, Data and Learning/mdl_endsem.pdf",
+    "filename": "mdl_endsem.pdf",
+    "path": "sem_4/Machine, Data and Learning/mdl_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Machine, Data and Learning/mdl_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "466d7f2a-43ec-4849-9a54-72b4a6cb16f5",
+    "id": "zyx7k/course-material/sem_4/Machine, Data and Learning/mdl_midsem.pdf",
+    "filename": "mdl_midsem.pdf",
+    "path": "sem_4/Machine, Data and Learning/mdl_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Machine, Data and Learning/mdl_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "8b97cd66-7128-46f7-93cb-9abb2ec9a24a",
+    "id": "zyx7k/course-material/sem_4/Machine, Data and Learning/mdl_quiz2.pdf",
+    "filename": "mdl_quiz2.pdf",
+    "path": "sem_4/Machine, Data and Learning/mdl_quiz2.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Machine, Data and Learning/mdl_quiz2.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "78c722d7-9be3-4882-a166-01f05801700e",
+    "id": "zyx7k/course-material/sem_4/Science 2/sci2_endsem.pdf",
+    "filename": "sci2_endsem.pdf",
+    "path": "sem_4/Science 2/sci2_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Science 2/sci2_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "b2e0e627-5386-4750-a901-781c2e420d86",
+    "id": "zyx7k/course-material/sem_4/Science 2/sci2_midsem.pdf",
+    "filename": "sci2_midsem.pdf",
+    "path": "sem_4/Science 2/sci2_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Science 2/sci2_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "f291095d-be03-44af-b3f1-9f95569a04c3",
+    "id": "zyx7k/course-material/sem_4/Science 2/sci2_quiz1_setA.pdf",
+    "filename": "sci2_quiz1_setA.pdf",
+    "path": "sem_4/Science 2/sci2_quiz1_setA.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Science 2/sci2_quiz1_setA.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "a8f58784-e80c-4f0b-b4ce-9717bcef9d28",
+    "id": "zyx7k/course-material/sem_4/Software Programming for Performance/spp_endsem.pdf",
+    "filename": "spp_endsem.pdf",
+    "path": "sem_4/Software Programming for Performance/spp_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Software Programming for Performance/spp_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "9ce46fa9-1ff5-431f-8bef-8c14521e343e",
+    "id": "zyx7k/course-material/sem_4/Software Programming for Performance/spp_midsem.pdf",
+    "filename": "spp_midsem.pdf",
+    "path": "sem_4/Software Programming for Performance/spp_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/sem_4/Software Programming for Performance/spp_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "8884d35c-895b-42b2-ae7e-6ecb0912dd03",
+    "id": "zyx7k/course-material/spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_endsem.pdf",
+    "filename": "esgme_endsem.pdf",
+    "path": "spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "ca6e4257-1a6f-4112-91ed-38fd2bc26866",
+    "id": "zyx7k/course-material/spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_midsem.pdf",
+    "filename": "esgme_midsem.pdf",
+    "path": "spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_midsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_midsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "4cab0b80-c837-42d7-ae1d-e9d11ddc40fc",
+    "id": "zyx7k/course-material/spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_quiz1.pdf",
+    "filename": "esgme_quiz1.pdf",
+    "path": "spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_quiz1.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/spring_25/Enviornmental and Social Governance in Mineral Extraction/esgme_quiz1.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": ""
+    }
+  },
+  {
+    "uid": "d17e50d2-22d2-4482-bff9-7d796e8160fb",
+    "id": "zyx7k/course-material/spring_25/Science 2/science2_endsem.pdf",
+    "filename": "science2_endsem.pdf",
+    "path": "spring_25/Science 2/science2_endsem.pdf",
+    "repo": "course-material",
+    "owner": "zyx7k",
+    "branch": "main",
+    "url": "https://github.com/zyx7k/course-material/blob/main/spring_25/Science 2/science2_endsem.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "exam"
+    }
+  }
+]

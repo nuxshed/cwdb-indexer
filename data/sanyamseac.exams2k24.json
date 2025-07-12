@@ -1,951 +1,1097 @@
 [
   {
+    "uid": "7157fb68-927a-469e-b42e-d331f2d1a9ef",
     "id": "sanyamseac/exams2k24/Semester 1/Computer Programming/Endsems/Endsems Computer Programming.pdf",
     "filename": "Endsems Computer Programming.pdf",
     "path": "Semester 1/Computer Programming/Endsems/Endsems Computer Programming.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Computer Programming/Endsems/Endsems Computer Programming.pdf",
     "tags": {
-      "course": "Computer Programming",
+      "course": "",
       "shortCourse": "cpro",
-      "type": ""
+      "type": "exam"
     }
   },
   {
+    "uid": "19f024b7-844f-4512-9137-508a4c205d1a",
     "id": "sanyamseac/exams2k24/Semester 1/Computer Programming/Endsems/Endsems Lab Exam Set 1 Computer Programming.pdf",
     "filename": "Endsems Lab Exam Set 1 Computer Programming.pdf",
     "path": "Semester 1/Computer Programming/Endsems/Endsems Lab Exam Set 1 Computer Programming.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Computer Programming/Endsems/Endsems Lab Exam Set 1 Computer Programming.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cpro",
+      "type": "exam"
     }
   },
   {
+    "uid": "47d3a045-0168-48f5-8de0-1092fa481084",
     "id": "sanyamseac/exams2k24/Semester 1/Computer Programming/Endsems/Endsems Lab Exam Set 2 Computer Programming.pdf",
     "filename": "Endsems Lab Exam Set 2 Computer Programming.pdf",
     "path": "Semester 1/Computer Programming/Endsems/Endsems Lab Exam Set 2 Computer Programming.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Computer Programming/Endsems/Endsems Lab Exam Set 2 Computer Programming.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cpro",
+      "type": "exam"
     }
   },
   {
+    "uid": "d06ab929-6572-44fe-8c31-ce109cccd060",
     "id": "sanyamseac/exams2k24/Semester 1/Computer Programming/Midsems/Midsems Computer Programming.pdf",
     "filename": "Midsems Computer Programming.pdf",
     "path": "Semester 1/Computer Programming/Midsems/Midsems Computer Programming.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Computer Programming/Midsems/Midsems Computer Programming.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cpro",
+      "type": "exam"
     }
   },
   {
+    "uid": "d6d4cd09-322e-42d8-bcb9-96cd29b1f6d6",
     "id": "sanyamseac/exams2k24/Semester 1/Computer Programming/Quizzes/Quiz 1 Computer Programming.pdf",
     "filename": "Quiz 1 Computer Programming.pdf",
     "path": "Semester 1/Computer Programming/Quizzes/Quiz 1 Computer Programming.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Computer Programming/Quizzes/Quiz 1 Computer Programming.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cpro",
+      "type": "exam"
     }
   },
   {
+    "uid": "d12eee17-08d6-4a20-9c72-077dbdcfed48",
     "id": "sanyamseac/exams2k24/Semester 1/Computer Programming/Quizzes/Quiz 2 Computer Programming.pdf",
     "filename": "Quiz 2 Computer Programming.pdf",
     "path": "Semester 1/Computer Programming/Quizzes/Quiz 2 Computer Programming.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Computer Programming/Quizzes/Quiz 2 Computer Programming.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cpro",
+      "type": "exam"
     }
   },
   {
+    "uid": "44e7dfc5-f9cf-4ccf-869f-190a8a2bb569",
     "id": "sanyamseac/exams2k24/Semester 1/Computing in Sciences - I/Endsems/Endsems Computing In Sciences - I.pdf",
     "filename": "Endsems Computing In Sciences - I.pdf",
     "path": "Semester 1/Computing in Sciences - I/Endsems/Endsems Computing In Sciences - I.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Computing in Sciences - I/Endsems/Endsems Computing In Sciences - I.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cis",
+      "type": "exam"
     }
   },
   {
+    "uid": "e7d57222-f72e-4238-9126-893a6b1b13bf",
     "id": "sanyamseac/exams2k24/Semester 1/Computing in Sciences - I/Quizzes/Quiz 2 Computing In Sciences - I.pdf",
     "filename": "Quiz 2 Computing In Sciences - I.pdf",
     "path": "Semester 1/Computing in Sciences - I/Quizzes/Quiz 2 Computing In Sciences - I.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Computing in Sciences - I/Quizzes/Quiz 2 Computing In Sciences - I.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cis",
+      "type": "exam"
     }
   },
   {
+    "uid": "12635a5d-4dba-45d0-99e3-73af5592bb06",
     "id": "sanyamseac/exams2k24/Semester 1/Digital Systems and Microcontrollers/Endsems/Endsems Digital System and Microcontrollers.pdf",
     "filename": "Endsems Digital System and Microcontrollers.pdf",
     "path": "Semester 1/Digital Systems and Microcontrollers/Endsems/Endsems Digital System and Microcontrollers.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Digital Systems and Microcontrollers/Endsems/Endsems Digital System and Microcontrollers.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "dsm",
+      "type": "exam"
     }
   },
   {
+    "uid": "70bc3510-ca1d-4063-8e9e-8e3d9115108a",
     "id": "sanyamseac/exams2k24/Semester 1/Digital Systems and Microcontrollers/Midsems/Midsems Digital System and Microcontrollers.pdf",
     "filename": "Midsems Digital System and Microcontrollers.pdf",
     "path": "Semester 1/Digital Systems and Microcontrollers/Midsems/Midsems Digital System and Microcontrollers.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Digital Systems and Microcontrollers/Midsems/Midsems Digital System and Microcontrollers.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "dsm",
+      "type": "exam"
     }
   },
   {
+    "uid": "5e37de7c-9537-45be-a746-603fc06febc9",
     "id": "sanyamseac/exams2k24/Semester 1/Digital Systems and Microcontrollers/Quizzes/Quiz 1 Digital Systems and Microcontrollers.pdf",
     "filename": "Quiz 1 Digital Systems and Microcontrollers.pdf",
     "path": "Semester 1/Digital Systems and Microcontrollers/Quizzes/Quiz 1 Digital Systems and Microcontrollers.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Digital Systems and Microcontrollers/Quizzes/Quiz 1 Digital Systems and Microcontrollers.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "dsm",
+      "type": "exam"
     }
   },
   {
+    "uid": "6d4ff02b-55aa-4c53-bc8a-35efc3cf1f84",
     "id": "sanyamseac/exams2k24/Semester 1/Digital Systems and Microcontrollers/Quizzes/Quiz 2 Digital Systems and Microcontollers.pdf",
     "filename": "Quiz 2 Digital Systems and Microcontollers.pdf",
     "path": "Semester 1/Digital Systems and Microcontrollers/Quizzes/Quiz 2 Digital Systems and Microcontollers.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Digital Systems and Microcontrollers/Quizzes/Quiz 2 Digital Systems and Microcontollers.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "dsm",
+      "type": "exam"
     }
   },
   {
+    "uid": "794f2d5c-5203-4227-81a2-2ee981981cab",
     "id": "sanyamseac/exams2k24/Semester 1/Discrete Structures/Endsems/Endsems Discrete Structures.pdf",
     "filename": "Endsems Discrete Structures.pdf",
     "path": "Semester 1/Discrete Structures/Endsems/Endsems Discrete Structures.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Discrete Structures/Endsems/Endsems Discrete Structures.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ds",
+      "type": "exam"
     }
   },
   {
+    "uid": "e86a0c3d-9c41-40c9-bdf8-a3fba4d9d677",
     "id": "sanyamseac/exams2k24/Semester 1/Discrete Structures/Midsems/Midsems Discrete Structures.pdf",
     "filename": "Midsems Discrete Structures.pdf",
     "path": "Semester 1/Discrete Structures/Midsems/Midsems Discrete Structures.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Discrete Structures/Midsems/Midsems Discrete Structures.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ds",
+      "type": "exam"
     }
   },
   {
+    "uid": "5907b065-2b3e-4264-bc0a-df7527905493",
     "id": "sanyamseac/exams2k24/Semester 1/Discrete Structures/Quizzes/Quiz 1 Section A Discrete Structures.pdf",
     "filename": "Quiz 1 Section A Discrete Structures.pdf",
     "path": "Semester 1/Discrete Structures/Quizzes/Quiz 1 Section A Discrete Structures.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Discrete Structures/Quizzes/Quiz 1 Section A Discrete Structures.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ds",
+      "type": "exam"
     }
   },
   {
+    "uid": "25fa4709-676c-42a3-8b07-48f609bed4b0",
     "id": "sanyamseac/exams2k24/Semester 1/Discrete Structures/Quizzes/Quiz 1 Section B Discrete Structures.pdf",
     "filename": "Quiz 1 Section B Discrete Structures.pdf",
     "path": "Semester 1/Discrete Structures/Quizzes/Quiz 1 Section B Discrete Structures.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Discrete Structures/Quizzes/Quiz 1 Section B Discrete Structures.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ds",
+      "type": "exam"
     }
   },
   {
+    "uid": "7488cc23-2693-4540-8f0b-4d8e4974c9df",
     "id": "sanyamseac/exams2k24/Semester 1/Discrete Structures/Quizzes/Quiz 2 Section A Discrete Structures.pdf",
     "filename": "Quiz 2 Section A Discrete Structures.pdf",
     "path": "Semester 1/Discrete Structures/Quizzes/Quiz 2 Section A Discrete Structures.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Discrete Structures/Quizzes/Quiz 2 Section A Discrete Structures.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ds",
+      "type": "exam"
     }
   },
   {
+    "uid": "401b76dd-dd32-42c8-9005-1ebf891245ce",
     "id": "sanyamseac/exams2k24/Semester 1/Intro to Linguistics - I/Midsems/Midsems Intro to Linguistics - I.pdf",
     "filename": "Midsems Intro to Linguistics - I.pdf",
     "path": "Semester 1/Intro to Linguistics - I/Midsems/Midsems Intro to Linguistics - I.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Intro to Linguistics - I/Midsems/Midsems Intro to Linguistics - I.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "itl",
+      "type": "exam"
     }
   },
   {
+    "uid": "b101b265-e670-4c7a-a333-82412ee0e891",
     "id": "sanyamseac/exams2k24/Semester 1/Making of the Contemporary India/Endsems/Endsem Making of the Contemporary India.pdf",
     "filename": "Endsem Making of the Contemporary India.pdf",
     "path": "Semester 1/Making of the Contemporary India/Endsems/Endsem Making of the Contemporary India.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Making of the Contemporary India/Endsems/Endsem Making of the Contemporary India.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "moci",
+      "type": "exam"
     }
   },
   {
+    "uid": "f397c632-9c79-4138-bcd4-d74dd49ee480",
     "id": "sanyamseac/exams2k24/Semester 1/Making of the Contemporary India/Midsems/Midsems MakeUp Making of Contemporary India.pdf",
     "filename": "Midsems MakeUp Making of Contemporary India.pdf",
     "path": "Semester 1/Making of the Contemporary India/Midsems/Midsems MakeUp Making of Contemporary India.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Making of the Contemporary India/Midsems/Midsems MakeUp Making of Contemporary India.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "moci",
+      "type": "exam"
     }
   },
   {
+    "uid": "e412b01e-dfff-4459-86e9-e0722ebff6f8",
     "id": "sanyamseac/exams2k24/Semester 1/Making of the Contemporary India/Midsems/Midsems Making of Contemporary India.pdf",
     "filename": "Midsems Making of Contemporary India.pdf",
     "path": "Semester 1/Making of the Contemporary India/Midsems/Midsems Making of Contemporary India.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Making of the Contemporary India/Midsems/Midsems Making of Contemporary India.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "moci",
+      "type": "exam"
     }
   },
   {
+    "uid": "c8fb9d31-ab15-4c0b-b84c-03aa7949803b",
     "id": "sanyamseac/exams2k24/Semester 1/Making of the Contemporary India/Quizzes/Quiz 1 Making of Contemporary India.pdf",
     "filename": "Quiz 1 Making of Contemporary India.pdf",
     "path": "Semester 1/Making of the Contemporary India/Quizzes/Quiz 1 Making of Contemporary India.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Making of the Contemporary India/Quizzes/Quiz 1 Making of Contemporary India.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "moci",
+      "type": "exam"
     }
   },
   {
+    "uid": "01d3361b-2ab5-47f6-8eef-aa924d60f541",
     "id": "sanyamseac/exams2k24/Semester 1/Networks, Signals and Systems/Endsems/Endsems Networks Signals and Systems.pdf",
     "filename": "Endsems Networks Signals and Systems.pdf",
     "path": "Semester 1/Networks, Signals and Systems/Endsems/Endsems Networks Signals and Systems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Networks, Signals and Systems/Endsems/Endsems Networks Signals and Systems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ness",
+      "type": "exam"
     }
   },
   {
+    "uid": "aa6acbd7-5bb7-4bf8-8fac-b555eedabcf3",
     "id": "sanyamseac/exams2k24/Semester 1/Networks, Signals and Systems/Midsems/Midsems Networks, Signals and Systems.pdf",
     "filename": "Midsems Networks, Signals and Systems.pdf",
     "path": "Semester 1/Networks, Signals and Systems/Midsems/Midsems Networks, Signals and Systems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Networks, Signals and Systems/Midsems/Midsems Networks, Signals and Systems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ness",
+      "type": "exam"
     }
   },
   {
+    "uid": "4d75fad9-f879-4da9-ab94-f46fdd4c0ec6",
     "id": "sanyamseac/exams2k24/Semester 1/Networks, Signals and Systems/Quizzes/Quiz 1 Network, Signals and Systems.pdf",
     "filename": "Quiz 1 Network, Signals and Systems.pdf",
     "path": "Semester 1/Networks, Signals and Systems/Quizzes/Quiz 1 Network, Signals and Systems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Networks, Signals and Systems/Quizzes/Quiz 1 Network, Signals and Systems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ness",
+      "type": "exam"
     }
   },
   {
+    "uid": "a9e8a5ca-6cd6-4fa0-91d9-c9edeaac7f95",
     "id": "sanyamseac/exams2k24/Semester 1/Networks, Signals and Systems/Quizzes/Quiz 2 Network, Signals and Systems.pdf",
     "filename": "Quiz 2 Network, Signals and Systems.pdf",
     "path": "Semester 1/Networks, Signals and Systems/Quizzes/Quiz 2 Network, Signals and Systems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Networks, Signals and Systems/Quizzes/Quiz 2 Network, Signals and Systems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ness",
+      "type": "exam"
     }
   },
   {
+    "uid": "b3b42018-9f9a-4cc6-a3fa-71f37b3e2f2c",
     "id": "sanyamseac/exams2k24/Semester 1/Real Analysis/Endsems/Endsems Real Analysis.pdf",
     "filename": "Endsems Real Analysis.pdf",
     "path": "Semester 1/Real Analysis/Endsems/Endsems Real Analysis.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Real Analysis/Endsems/Endsems Real Analysis.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ra",
+      "type": "exam"
     }
   },
   {
+    "uid": "a34e02cd-d419-420c-abf9-8e417a37f51c",
     "id": "sanyamseac/exams2k24/Semester 1/Real Analysis/Midsems/Midsems Real Analysis.pdf",
     "filename": "Midsems Real Analysis.pdf",
     "path": "Semester 1/Real Analysis/Midsems/Midsems Real Analysis.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Real Analysis/Midsems/Midsems Real Analysis.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ra",
+      "type": "exam"
     }
   },
   {
+    "uid": "639c6098-6e02-4ac6-9682-7bb8a3f6ec2a",
     "id": "sanyamseac/exams2k24/Semester 1/Real Analysis/Quizzes/Quiz 1 Real Analysis.pdf",
     "filename": "Quiz 1 Real Analysis.pdf",
     "path": "Semester 1/Real Analysis/Quizzes/Quiz 1 Real Analysis.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Real Analysis/Quizzes/Quiz 1 Real Analysis.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ra",
+      "type": "exam"
     }
   },
   {
+    "uid": "0594c8fc-e564-4289-95c3-11a3f4d4e690",
     "id": "sanyamseac/exams2k24/Semester 1/Real Analysis/Quizzes/Quiz 2 Real Analysis.pdf",
     "filename": "Quiz 2 Real Analysis.pdf",
     "path": "Semester 1/Real Analysis/Quizzes/Quiz 2 Real Analysis.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Real Analysis/Quizzes/Quiz 2 Real Analysis.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ra",
+      "type": "exam"
     }
   },
   {
+    "uid": "a24225b8-8c70-4967-992b-2aa4e975f375",
     "id": "sanyamseac/exams2k24/Semester 1/Spatial Thinking and Practice/Endsems/Endsems Spatial Thinking and Practice.pdf",
     "filename": "Endsems Spatial Thinking and Practice.pdf",
     "path": "Semester 1/Spatial Thinking and Practice/Endsems/Endsems Spatial Thinking and Practice.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Spatial Thinking and Practice/Endsems/Endsems Spatial Thinking and Practice.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "stp",
+      "type": "exam"
     }
   },
   {
+    "uid": "8ebb0e1a-aca2-4b55-9337-3bf7cd52c359",
     "id": "sanyamseac/exams2k24/Semester 1/Spatial Thinking and Practice/Midsems/Midsems Spatial Thinking and Practice.pdf",
     "filename": "Midsems Spatial Thinking and Practice.pdf",
     "path": "Semester 1/Spatial Thinking and Practice/Midsems/Midsems Spatial Thinking and Practice.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Spatial Thinking and Practice/Midsems/Midsems Spatial Thinking and Practice.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "stp",
+      "type": "exam"
     }
   },
   {
+    "uid": "ba2f4d3a-9dde-4afa-afb1-1d2323fca911",
     "id": "sanyamseac/exams2k24/Semester 1/Spatial Thinking and Practice/Quizzes/Quiz 1 Spatial Thinking and Practice.pdf",
     "filename": "Quiz 1 Spatial Thinking and Practice.pdf",
     "path": "Semester 1/Spatial Thinking and Practice/Quizzes/Quiz 1 Spatial Thinking and Practice.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 1/Spatial Thinking and Practice/Quizzes/Quiz 1 Spatial Thinking and Practice.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "stp",
+      "type": "exam"
     }
   },
   {
+    "uid": "46624663-b004-4f0f-8223-3af6de3655d5",
     "id": "sanyamseac/exams2k24/Semester 2/Analog Electronic Circuits/Endsems/Endsems Analog Electronic Circuits.pdf",
     "filename": "Endsems Analog Electronic Circuits.pdf",
     "path": "Semester 2/Analog Electronic Circuits/Endsems/Endsems Analog Electronic Circuits.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Analog Electronic Circuits/Endsems/Endsems Analog Electronic Circuits.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "aec",
+      "type": "exam"
     }
   },
   {
+    "uid": "4fe5c975-7f9b-42b8-b659-145879c5b9fd",
     "id": "sanyamseac/exams2k24/Semester 2/Analog Electronic Circuits/Midsems/Midsems Analog Electronic Circuits.pdf",
     "filename": "Midsems Analog Electronic Circuits.pdf",
     "path": "Semester 2/Analog Electronic Circuits/Midsems/Midsems Analog Electronic Circuits.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Analog Electronic Circuits/Midsems/Midsems Analog Electronic Circuits.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "aec",
+      "type": "exam"
     }
   },
   {
+    "uid": "fc1732e4-1d44-4571-be33-67cf189b0a4f",
     "id": "sanyamseac/exams2k24/Semester 2/Analog Electronic Circuits/Quizzes/Quiz 1 Solutions Analog Electronic Circuits.pdf",
     "filename": "Quiz 1 Solutions Analog Electronic Circuits.pdf",
     "path": "Semester 2/Analog Electronic Circuits/Quizzes/Quiz 1 Solutions Analog Electronic Circuits.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Analog Electronic Circuits/Quizzes/Quiz 1 Solutions Analog Electronic Circuits.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "aec",
+      "type": "exam"
     }
   },
   {
+    "uid": "b6d4a338-d772-4369-856e-fae2905f253b",
     "id": "sanyamseac/exams2k24/Semester 2/Analog Electronic Circuits/Quizzes/Quiz 2 Analog Electronic Circuits QP.pdf",
     "filename": "Quiz 2 Analog Electronic Circuits QP.pdf",
     "path": "Semester 2/Analog Electronic Circuits/Quizzes/Quiz 2 Analog Electronic Circuits QP.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Analog Electronic Circuits/Quizzes/Quiz 2 Analog Electronic Circuits QP.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "aec",
+      "type": "exam"
     }
   },
   {
+    "uid": "348f7cdd-600f-4c86-88f0-a869695459f6",
     "id": "sanyamseac/exams2k24/Semester 2/Classical Mechanics/Midsems/Midsems Classical Mechanics.pdf",
     "filename": "Midsems Classical Mechanics.pdf",
     "path": "Semester 2/Classical Mechanics/Midsems/Midsems Classical Mechanics.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Classical Mechanics/Midsems/Midsems Classical Mechanics.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cm",
+      "type": "exam"
     }
   },
   {
+    "uid": "1902197c-c409-441f-883e-df30c11cf606",
     "id": "sanyamseac/exams2k24/Semester 2/Classical Mechanics/Quizzes/Quiz 1 Classical Mechanics.pdf",
     "filename": "Quiz 1 Classical Mechanics.pdf",
     "path": "Semester 2/Classical Mechanics/Quizzes/Quiz 1 Classical Mechanics.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Classical Mechanics/Quizzes/Quiz 1 Classical Mechanics.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cm",
+      "type": "exam"
     }
   },
   {
+    "uid": "b99f6343-45bd-426f-a1f1-71c8d75de789",
     "id": "sanyamseac/exams2k24/Semester 2/Computational Linguistics/Endsems/CL-1 Endsems UG2K24.pdf",
     "filename": "CL-1 Endsems UG2K24.pdf",
     "path": "Semester 2/Computational Linguistics/Endsems/CL-1 Endsems UG2K24.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Computational Linguistics/Endsems/CL-1 Endsems UG2K24.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cl",
+      "type": "exam"
     }
   },
   {
+    "uid": "01951bff-f416-4b30-95d6-2cd6d55bff7f",
     "id": "sanyamseac/exams2k24/Semester 2/Computational Linguistics/Midsems/CL-1 Midsems UG2K24.pdf",
     "filename": "CL-1 Midsems UG2K24.pdf",
     "path": "Semester 2/Computational Linguistics/Midsems/CL-1 Midsems UG2K24.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Computational Linguistics/Midsems/CL-1 Midsems UG2K24.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cl",
+      "type": "exam"
     }
   },
   {
+    "uid": "261cd66a-1a5b-4f58-b48e-31b9acf79701",
     "id": "sanyamseac/exams2k24/Semester 2/Computing in Sciences - II/Endsems/CIS2_Endsem.pdf",
     "filename": "CIS2_Endsem.pdf",
     "path": "Semester 2/Computing in Sciences - II/Endsems/CIS2_Endsem.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Computing in Sciences - II/Endsems/CIS2_Endsem.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cis",
+      "type": "exam"
     }
   },
   {
+    "uid": "79066dda-3579-41dd-a6f3-1d6d57656806",
     "id": "sanyamseac/exams2k24/Semester 2/Computing in Sciences - II/Quizzes/CIS-2_quiz.pdf",
     "filename": "CIS-2_quiz.pdf",
     "path": "Semester 2/Computing in Sciences - II/Quizzes/CIS-2_quiz.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Computing in Sciences - II/Quizzes/CIS-2_quiz.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "cis",
+      "type": "exam"
     }
   },
   {
+    "uid": "d5a7c04b-4780-482f-b2a3-5eb737315367",
     "id": "sanyamseac/exams2k24/Semester 2/Data Structures and Algorithms/Endsems/Endsems Data Structures and Algorithms.pdf",
     "filename": "Endsems Data Structures and Algorithms.pdf",
     "path": "Semester 2/Data Structures and Algorithms/Endsems/Endsems Data Structures and Algorithms.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Data Structures and Algorithms/Endsems/Endsems Data Structures and Algorithms.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "dsa",
+      "type": "exam"
     }
   },
   {
+    "uid": "7a97ef28-ee2c-4c2d-9465-dca21cff4490",
     "id": "sanyamseac/exams2k24/Semester 2/Data Structures and Algorithms/Midsems/Midsems Data Structures and Algorithms.pdf",
     "filename": "Midsems Data Structures and Algorithms.pdf",
     "path": "Semester 2/Data Structures and Algorithms/Midsems/Midsems Data Structures and Algorithms.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Data Structures and Algorithms/Midsems/Midsems Data Structures and Algorithms.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "dsa",
+      "type": "exam"
     }
   },
   {
+    "uid": "0cc11222-eab1-49fd-b327-1ea14d02271e",
     "id": "sanyamseac/exams2k24/Semester 2/Data Structures and Algorithms/Quizzes/Quiz 2 Data Structures and Algorithms.pdf",
     "filename": "Quiz 2 Data Structures and Algorithms.pdf",
     "path": "Semester 2/Data Structures and Algorithms/Quizzes/Quiz 2 Data Structures and Algorithms.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Data Structures and Algorithms/Quizzes/Quiz 2 Data Structures and Algorithms.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "dsa",
+      "type": "exam"
     }
   },
   {
+    "uid": "75a5a4e2-fa8b-4679-af1d-82f54091f1e5",
     "id": "sanyamseac/exams2k24/Semester 2/General and Structural Chemistry/Quizzes/Quiz 1 General and Structural Chemistry.pdf",
     "filename": "Quiz 1 General and Structural Chemistry.pdf",
     "path": "Semester 2/General and Structural Chemistry/Quizzes/Quiz 1 General and Structural Chemistry.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/General and Structural Chemistry/Quizzes/Quiz 1 General and Structural Chemistry.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "gsc",
+      "type": "exam"
     }
   },
   {
+    "uid": "13426e09-90f7-4a6d-82cb-5e2ffe130b0f",
     "id": "sanyamseac/exams2k24/Semester 2/General and Structural Chemistry/Quizzes/Quiz 2 General and Structural Chemistry.pdf",
     "filename": "Quiz 2 General and Structural Chemistry.pdf",
     "path": "Semester 2/General and Structural Chemistry/Quizzes/Quiz 2 General and Structural Chemistry.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/General and Structural Chemistry/Quizzes/Quiz 2 General and Structural Chemistry.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "gsc",
+      "type": "exam"
     }
   },
   {
+    "uid": "961c9d41-270b-4c8d-ba66-c9b38b77926a",
     "id": "sanyamseac/exams2k24/Semester 2/Information and Communication/Endsems/Endsem InfoComm.pdf",
     "filename": "Endsem InfoComm.pdf",
     "path": "Semester 2/Information and Communication/Endsems/Endsem InfoComm.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Information and Communication/Endsems/Endsem InfoComm.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ic",
+      "type": "exam"
     }
   },
   {
+    "uid": "e543dfa8-692e-48b2-a6fb-9107f28a9269",
     "id": "sanyamseac/exams2k24/Semester 2/Information and Communication/Midsems/Midsems.pdf",
     "filename": "Midsems.pdf",
     "path": "Semester 2/Information and Communication/Midsems/Midsems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Information and Communication/Midsems/Midsems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ic",
+      "type": "exam"
     }
   },
   {
+    "uid": "1549191f-c14a-47b5-980c-cb0cc21be919",
     "id": "sanyamseac/exams2k24/Semester 2/Information and Communication/Quizzes/Quiz 1 InfoComm QP.pdf",
     "filename": "Quiz 1 InfoComm QP.pdf",
     "path": "Semester 2/Information and Communication/Quizzes/Quiz 1 InfoComm QP.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Information and Communication/Quizzes/Quiz 1 InfoComm QP.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ic",
+      "type": "exam"
     }
   },
   {
+    "uid": "49f8369b-63b8-4812-a9ad-bcf9c60f6af8",
     "id": "sanyamseac/exams2k24/Semester 2/Information and Communication/Quizzes/Quiz 2 InfoComm QP.pdf",
     "filename": "Quiz 2 InfoComm QP.pdf",
     "path": "Semester 2/Information and Communication/Quizzes/Quiz 2 InfoComm QP.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Information and Communication/Quizzes/Quiz 2 InfoComm QP.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "ic",
+      "type": "exam"
     }
   },
   {
+    "uid": "df05388d-3696-4ae3-bb75-f7f6e81f7592",
     "id": "sanyamseac/exams2k24/Semester 2/Intro to Linguistics - II/Endsems/ITL-2 Endsems UG2k24.pdf",
     "filename": "ITL-2 Endsems UG2k24.pdf",
     "path": "Semester 2/Intro to Linguistics - II/Endsems/ITL-2 Endsems UG2k24.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Intro to Linguistics - II/Endsems/ITL-2 Endsems UG2k24.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "itl",
+      "type": "exam"
     }
   },
   {
+    "uid": "8d88e618-92bb-4c7b-b6fa-cc64a17402e0",
     "id": "sanyamseac/exams2k24/Semester 2/Intro to Linguistics - II/Midsems/ITL-2 Midsems UG2k24.pdf",
     "filename": "ITL-2 Midsems UG2k24.pdf",
     "path": "Semester 2/Intro to Linguistics - II/Midsems/ITL-2 Midsems UG2k24.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Intro to Linguistics - II/Midsems/ITL-2 Midsems UG2k24.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "itl",
+      "type": "exam"
     }
   },
   {
+    "uid": "44ae619a-7188-44cf-b017-73a79805c3b8",
     "id": "sanyamseac/exams2k24/Semester 2/Intro to Software Systems/Endsems/Endsems Intro to Software Systems.pdf",
     "filename": "Endsems Intro to Software Systems.pdf",
     "path": "Semester 2/Intro to Software Systems/Endsems/Endsems Intro to Software Systems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Intro to Software Systems/Endsems/Endsems Intro to Software Systems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iss",
+      "type": "exam"
     }
   },
   {
+    "uid": "f7dbe992-a9c2-4fd9-9b75-f5d33c57f19e",
     "id": "sanyamseac/exams2k24/Semester 2/Intro to Software Systems/Midsems/Midsems Intro to Software Systems.pdf",
     "filename": "Midsems Intro to Software Systems.pdf",
     "path": "Semester 2/Intro to Software Systems/Midsems/Midsems Intro to Software Systems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Intro to Software Systems/Midsems/Midsems Intro to Software Systems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iss",
+      "type": "exam"
     }
   },
   {
+    "uid": "f22d879d-04bc-4fc6-980b-5485584979d5",
     "id": "sanyamseac/exams2k24/Semester 2/Intro to Software Systems/Quizzes/Quiz 1 Intro to Software Systems.pdf",
     "filename": "Quiz 1 Intro to Software Systems.pdf",
     "path": "Semester 2/Intro to Software Systems/Quizzes/Quiz 1 Intro to Software Systems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Intro to Software Systems/Quizzes/Quiz 1 Intro to Software Systems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iss",
+      "type": "exam"
     }
   },
   {
+    "uid": "1ac050b5-9c2c-4a69-8c15-b8f0326734c1",
     "id": "sanyamseac/exams2k24/Semester 2/Intro to Software Systems/Quizzes/Quiz 2 Intro to Software Systems.pdf",
     "filename": "Quiz 2 Intro to Software Systems.pdf",
     "path": "Semester 2/Intro to Software Systems/Quizzes/Quiz 2 Intro to Software Systems.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Intro to Software Systems/Quizzes/Quiz 2 Intro to Software Systems.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iss",
+      "type": "exam"
     }
   },
   {
+    "uid": "3ab4f042-f84d-4b2b-854d-4c7680158a4d",
     "id": "sanyamseac/exams2k24/Semester 2/Introduction to IoT/Endsems/IoT Endsem.pdf",
     "filename": "IoT Endsem.pdf",
     "path": "Semester 2/Introduction to IoT/Endsems/IoT Endsem.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Introduction to IoT/Endsems/IoT Endsem.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iot",
+      "type": "exam"
     }
   },
   {
+    "uid": "5c5c73fd-5aad-43ec-8756-03fae071db01",
     "id": "sanyamseac/exams2k24/Semester 2/Introduction to IoT/Midsems/IIoT_Midsem.pdf",
     "filename": "IIoT_Midsem.pdf",
     "path": "Semester 2/Introduction to IoT/Midsems/IIoT_Midsem.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Introduction to IoT/Midsems/IIoT_Midsem.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iot",
+      "type": "exam"
     }
   },
   {
+    "uid": "d275c0ae-8b66-4b77-a974-74096d627e6e",
     "id": "sanyamseac/exams2k24/Semester 2/Introduction to IoT/Quizzes/AnsKey.pdf",
     "filename": "AnsKey.pdf",
     "path": "Semester 2/Introduction to IoT/Quizzes/AnsKey.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Introduction to IoT/Quizzes/AnsKey.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iot",
+      "type": "exam"
     }
   },
   {
+    "uid": "b051257e-2487-494b-83c5-bae7b978feff",
     "id": "sanyamseac/exams2k24/Semester 2/Introduction to IoT/Quizzes/Quiz-1.pdf",
     "filename": "Quiz-1.pdf",
     "path": "Semester 2/Introduction to IoT/Quizzes/Quiz-1.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Introduction to IoT/Quizzes/Quiz-1.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iot",
+      "type": "exam"
     }
   },
   {
+    "uid": "cd5940b5-922f-4549-b1da-26c9bfaf12bc",
     "id": "sanyamseac/exams2k24/Semester 2/Introduction to Spatial Sciences/Endsems/Endsems Intro to Spatial Sciences.pdf",
     "filename": "Endsems Intro to Spatial Sciences.pdf",
     "path": "Semester 2/Introduction to Spatial Sciences/Endsems/Endsems Intro to Spatial Sciences.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Introduction to Spatial Sciences/Endsems/Endsems Intro to Spatial Sciences.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iss",
+      "type": "exam"
     }
   },
   {
+    "uid": "a6702987-4bf8-4e63-b65c-b6205c9876b9",
     "id": "sanyamseac/exams2k24/Semester 2/Introduction to Spatial Sciences/Midsems/Midsems Intro to Spatial Sciences.pdf",
     "filename": "Midsems Intro to Spatial Sciences.pdf",
     "path": "Semester 2/Introduction to Spatial Sciences/Midsems/Midsems Intro to Spatial Sciences.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Introduction to Spatial Sciences/Midsems/Midsems Intro to Spatial Sciences.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "iss",
+      "type": "exam"
     }
   },
   {
+    "uid": "f1347e3c-8412-4a9a-925b-f3a16f346dc8",
     "id": "sanyamseac/exams2k24/Semester 2/Linear Algebra/Endsems/Endsems Linear Algebra.pdf",
     "filename": "Endsems Linear Algebra.pdf",
     "path": "Semester 2/Linear Algebra/Endsems/Endsems Linear Algebra.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Linear Algebra/Endsems/Endsems Linear Algebra.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "la",
+      "type": "exam"
     }
   },
   {
+    "uid": "862c877e-24a2-47b2-a1d1-7cbb8a19d476",
     "id": "sanyamseac/exams2k24/Semester 2/Linear Algebra/Midsems/LA_Midsem_Solutions_S25.pdf",
     "filename": "LA_Midsem_Solutions_S25.pdf",
     "path": "Semester 2/Linear Algebra/Midsems/LA_Midsem_Solutions_S25.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Linear Algebra/Midsems/LA_Midsem_Solutions_S25.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "la",
+      "type": "exam"
     }
   },
   {
+    "uid": "44872323-9b04-45ae-976e-72ed0f9279d5",
     "id": "sanyamseac/exams2k24/Semester 2/Linear Algebra/Midsems/Midsems Linear Algebra.pdf",
     "filename": "Midsems Linear Algebra.pdf",
     "path": "Semester 2/Linear Algebra/Midsems/Midsems Linear Algebra.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Linear Algebra/Midsems/Midsems Linear Algebra.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "la",
+      "type": "exam"
     }
   },
   {
+    "uid": "cb8e0c5d-13db-4368-b36e-259863296466",
     "id": "sanyamseac/exams2k24/Semester 2/Linear Algebra/Quizzes/Quiz 1 Linear Algebra.pdf",
     "filename": "Quiz 1 Linear Algebra.pdf",
     "path": "Semester 2/Linear Algebra/Quizzes/Quiz 1 Linear Algebra.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Linear Algebra/Quizzes/Quiz 1 Linear Algebra.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "la",
+      "type": "exam"
     }
   },
   {
+    "uid": "18f9cc98-0303-4330-bdfc-88a90e78f4f1",
     "id": "sanyamseac/exams2k24/Semester 2/Linear Algebra/Quizzes/Quiz 2 Linear Algebra.pdf",
     "filename": "Quiz 2 Linear Algebra.pdf",
     "path": "Semester 2/Linear Algebra/Quizzes/Quiz 2 Linear Algebra.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Linear Algebra/Quizzes/Quiz 2 Linear Algebra.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "la",
+      "type": "exam"
     }
   },
   {
+    "uid": "08a0e264-25b8-495b-a4f5-e1c620388ca9",
     "id": "sanyamseac/exams2k24/Semester 2/Making of Contemporary World/Endsems/Endsems Making of Contemporary World.pdf",
     "filename": "Endsems Making of Contemporary World.pdf",
     "path": "Semester 2/Making of Contemporary World/Endsems/Endsems Making of Contemporary World.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Making of Contemporary World/Endsems/Endsems Making of Contemporary World.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "mocw",
+      "type": "exam"
     }
   },
   {
+    "uid": "282b1db8-d4a2-4050-8d9f-b420ace64738",
     "id": "sanyamseac/exams2k24/Semester 2/Making of Contemporary World/Midsems/Midsems Making of Contemporary World.pdf",
     "filename": "Midsems Making of Contemporary World.pdf",
     "path": "Semester 2/Making of Contemporary World/Midsems/Midsems Making of Contemporary World.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Making of Contemporary World/Midsems/Midsems Making of Contemporary World.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "mocw",
+      "type": "exam"
     }
   },
   {
+    "uid": "ea6b1ff1-7546-441e-946d-835a39e5382d",
     "id": "sanyamseac/exams2k24/Semester 2/Thinking and Knowing in the Human Sciences - I/Endsems/Endsems Thinking and Knowing in the Human Sciences - I.pdf",
     "filename": "Endsems Thinking and Knowing in the Human Sciences - I.pdf",
     "path": "Semester 2/Thinking and Knowing in the Human Sciences - I/Endsems/Endsems Thinking and Knowing in the Human Sciences - I.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Thinking and Knowing in the Human Sciences - I/Endsems/Endsems Thinking and Knowing in the Human Sciences - I.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "tkhs",
+      "type": "exam"
     }
   },
   {
+    "uid": "1cd737fb-e1ed-4607-abf0-ea6853200bfc",
     "id": "sanyamseac/exams2k24/Semester 2/Thinking and Knowing in the Human Sciences - I/Midsems/TKHS1-mid.pdf",
     "filename": "TKHS1-mid.pdf",
     "path": "Semester 2/Thinking and Knowing in the Human Sciences - I/Midsems/TKHS1-mid.pdf",
     "repo": "exams2k24",
     "owner": "sanyamseac",
+    "branch": "main",
     "url": "https://github.com/sanyamseac/exams2k24/blob/main/Semester 2/Thinking and Knowing in the Human Sciences - I/Midsems/TKHS1-mid.pdf",
     "tags": {
       "course": "",
-      "shortCourse": "",
-      "type": ""
+      "shortCourse": "tkhs",
+      "type": "exam"
     }
   }
 ]

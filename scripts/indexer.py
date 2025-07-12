@@ -3,16 +3,19 @@ import json
 import sys
 from urllib.parse import urlparse
 from pathlib import Path
+import uuid
 
 def index_repo(repo_url: str):
     parsed = urlparse(repo_url)
     path_parts = parsed.path.strip("/").split("/")
-    owner, repo = path_parts[0], path_parts[1]
+    owner = path_parts[0]
+    repo = path_parts[1]
+    branch = path_parts[2] if len(path_parts) > 2 else "main"
 
-    api_url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/main?recursive=1"
+    api_url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
     headers = {"Accept": "application/vnd.github+json"}
 
-    print(f"Fetching file tree for {owner}/{repo}...")
+    print(f"Fetching file tree for {owner}/{repo} on branch '{branch}'...")
     res = requests.get(api_url, headers=headers)
     res.raise_for_status()
 
@@ -57,12 +60,14 @@ def index_repo(repo_url: str):
             continue
 
         new_doc = {
+            "uid": str(uuid.uuid4()),
             "id": doc_id,
             "filename": filename,
             "path": path,
             "repo": repo,
             "owner": owner,
-            "url": f"https://github.com/{owner}/{repo}/blob/main/{path}",
+            "branch": branch,
+            "url": f"https://github.com/{owner}/{repo}/blob/{branch}/{path}",
             "tags": {
                 "course": "",
                 "shortCourse": "",

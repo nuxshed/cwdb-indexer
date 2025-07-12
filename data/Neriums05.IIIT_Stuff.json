@@ -1,0 +1,32 @@
+[
+  {
+    "uid": "86a11f36-9943-4ee8-a127-58bb6c87c249",
+    "id": "Neriums05/IIIT_Stuff/SEM2_2K24/DSA/DSA_Notes.pdf",
+    "filename": "DSA_Notes.pdf",
+    "path": "SEM2_2K24/DSA/DSA_Notes.pdf",
+    "repo": "IIIT_Stuff",
+    "owner": "Neriums05",
+    "branch": "main",
+    "url": "https://github.com/Neriums05/IIIT_Stuff/blob/main/SEM2_2K24/DSA/DSA_Notes.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "notes"
+    }
+  },
+  {
+    "uid": "00558b86-7249-4662-af0e-304df4c54ca7",
+    "id": "Neriums05/IIIT_Stuff/SEM2_2K24/LA/LA_Notes.pdf",
+    "filename": "LA_Notes.pdf",
+    "path": "SEM2_2K24/LA/LA_Notes.pdf",
+    "repo": "IIIT_Stuff",
+    "owner": "Neriums05",
+    "branch": "main",
+    "url": "https://github.com/Neriums05/IIIT_Stuff/blob/main/SEM2_2K24/LA/LA_Notes.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "notes"
+    }
+  }
+]

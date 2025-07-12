@@ -1,0 +1,62 @@
+[
+  {
+    "uid": "fc6154a5-acc3-4c68-bb85-26b22d43b701",
+    "id": "resources-iiith/textbooks/Year 1/DS/Discrete Mathematics and Its Applications.pdf",
+    "filename": "Discrete Mathematics and Its Applications.pdf",
+    "path": "Year 1/DS/Discrete Mathematics and Its Applications.pdf",
+    "repo": "textbooks",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/textbooks/blob/main/Year 1/DS/Discrete Mathematics and Its Applications.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "textbook"
+    }
+  },
+  {
+    "uid": "fa6cb953-23dd-4e7a-bfe5-93684fb90fa7",
+    "id": "resources-iiith/textbooks/Year 1/DSM/TB DSM solns.pdf",
+    "filename": "TB DSM solns.pdf",
+    "path": "Year 1/DSM/TB DSM solns.pdf",
+    "repo": "textbooks",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/textbooks/blob/main/Year 1/DSM/TB DSM solns.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "textbook"
+    }
+  },
+  {
+    "uid": "36330668-728d-42e0-b97c-0f5d710320d4",
+    "id": "resources-iiith/textbooks/Year 1/DSM/TB DSM.pdf",
+    "filename": "TB DSM.pdf",
+    "path": "Year 1/DSM/TB DSM.pdf",
+    "repo": "textbooks",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/textbooks/blob/main/Year 1/DSM/TB DSM.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "textbook"
+    }
+  },
+  {
+    "uid": "8bca158a-0d19-4fb3-9673-79bbe4e5d77c",
+    "id": "resources-iiith/textbooks/Year 1/RA/SK MAPA.pdf",
+    "filename": "SK MAPA.pdf",
+    "path": "Year 1/RA/SK MAPA.pdf",
+    "repo": "textbooks",
+    "owner": "resources-iiith",
+    "branch": "main",
+    "url": "https://github.com/resources-iiith/textbooks/blob/main/Year 1/RA/SK MAPA.pdf",
+    "tags": {
+      "course": "",
+      "shortCourse": "",
+      "type": "textbook"
+    }
+  }
+]
